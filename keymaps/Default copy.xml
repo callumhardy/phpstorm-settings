@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Cvs.Add">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
   <action id="Cvs.CreateBranch">
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
