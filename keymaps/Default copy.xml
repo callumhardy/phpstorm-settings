@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="AddToFavoritesPopup" />
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Debug" />
   <action id="Diff.ShowDiff" />
@@ -6,6 +10,21 @@
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="shift ctrl alt m" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
+  <action id="Git.Tag">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+  </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
     <keyboard-shortcut first-keystroke="meta p" />
@@ -52,5 +71,9 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="UsageView.Rerun" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="hg4idea.QPushAction" />
   <action id="openAssertEqualsDiff" />
 </keymap>
