@@ -4,12 +4,18 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Cvs.CreateBranch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
   <action id="Debug" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
   </action>
