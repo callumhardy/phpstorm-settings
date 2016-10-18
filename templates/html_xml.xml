@@ -19,4 +19,11 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="foreach" value="&lt;?php foreach($VAR$ as $key =&gt; $value): ?&gt;&#10;    $END$&#10;&lt;?php endforeach ?&gt;" description="Foreach loop" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>
