@@ -51,4 +51,22 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="if" value="if ($CONDITION$)&#10;{&#10;&#9;$END$&#10;}" description="if( condition ) { code }" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ifelse" value="if ($CONDITION$)&#10;{&#10;&#9;$CODE$&#10;}&#10;else&#10;{&#10;    $END$&#10;}" description="if( condition ) { code } else { code }" toReformat="false" toShortenFQNames="true">
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ife" value="if($CONDITION)&#10;{&#10;    $END$&#10;}" description="ifelse( condition ) { code }" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
