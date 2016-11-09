@@ -45,6 +45,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="BRACE_STYLE" value="2" />
     <indentOptions>
       <option name="SMART_TABS" value="true" />
     </indentOptions>
