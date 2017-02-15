@@ -53,6 +53,9 @@
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="shift meta alt v" />
   </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
   <action id="RecentProjectListGroup">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
