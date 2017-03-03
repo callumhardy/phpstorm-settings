@@ -23,10 +23,6 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="meta f" />
-    <keyboard-shortcut first-keystroke="shift f" />
-  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
@@ -65,8 +61,9 @@
   </action>
   <action id="Refresh" />
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="shift r" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
+  <action id="ReplaceInPath" />
   <action id="Rerun" />
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="shift meta d" />
