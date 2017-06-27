@@ -15,7 +15,6 @@
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
       <mask>!*.sql</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
@@ -25,9 +24,7 @@
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
-      <mask>*.j</mask>
       <mask>*.json</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.phtm</mask>
@@ -35,9 +32,12 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
