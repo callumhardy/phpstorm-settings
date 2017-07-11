@@ -26,9 +26,7 @@
       <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.json</mask>
-      <mask>*.ph</mask>
       <mask>*.phtm</mask>
-      <mask>*.phtml</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -38,8 +36,10 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
