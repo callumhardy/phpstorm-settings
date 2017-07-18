@@ -129,16 +129,31 @@
         <option name="FOREGROUND" value="1a1f29" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.BRACKET">
+      <value>
+        <option name="FOREGROUND" value="cad3de" />
+      </value>
+    </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
       <value>
         <option name="FOREGROUND" value="dee3ec" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.FUNCTION_BINDING">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
     <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
       <value>
         <option name="FOREGROUND" value="dee3ec" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="COFFEESCRIPT.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
     <option name="COFFEESCRIPT.PARAMETER">

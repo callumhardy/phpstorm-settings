@@ -15,6 +15,18 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt b" />
   </action>
   <action id="Debug" />
+  <action id="Diff.AppendLeftSide">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="Diff.AppendRightSide">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="Diff.ApplyLeftSide">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="Diff.ApplyRightSide">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate" />
