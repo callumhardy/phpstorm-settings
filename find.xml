@@ -32,7 +32,6 @@
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.phtml</mask>
@@ -40,6 +39,7 @@
       <mask>*.pht</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
