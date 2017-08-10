@@ -11,13 +11,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!--*" />
+    <option name="FILE_MASK" value="!--*,*.less" />
     <recentFileMasks>
-      <mask>*.json</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
       <mask>*.js</mask>
@@ -37,12 +32,17 @@
       <mask>!</mask>
       <mask>!-</mask>
       <mask>!--</mask>
-      <mask>!--*,</mask>
       <mask>!--*,*.js</mask>
       <mask>!--*,*.j</mask>
-      <mask>!--*,*.</mask>
-      <mask>!--*,*</mask>
       <mask>!--*</mask>
+      <mask>!--*,</mask>
+      <mask>!--*,*/</mask>
+      <mask>!--*,*</mask>
+      <mask>!--*,*.</mask>
+      <mask>!--*,*.l</mask>
+      <mask>!--*,*.le</mask>
+      <mask>!--*,*.les</mask>
+      <mask>!--*,*.less</mask>
     </recentFileMasks>
   </component>
 </application>
