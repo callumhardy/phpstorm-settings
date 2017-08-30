@@ -26,18 +26,18 @@
       <mask>!--*,*.le</mask>
       <mask>!--*,*.les</mask>
       <mask>!--*,*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
