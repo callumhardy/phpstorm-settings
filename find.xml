@@ -12,9 +12,6 @@
       <mask>!--*,*.less</mask>
       <mask>*.json</mask>
       <mask>*.jso</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.le</mask>
@@ -38,6 +35,9 @@
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
