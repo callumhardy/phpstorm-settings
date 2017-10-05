@@ -62,6 +62,9 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
+  <action id="Magicento2Action">
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
+  </action>
   <action id="NextDiff">
     <keyboard-shortcut first-keystroke="f7" />
     <keyboard-shortcut first-keystroke="meta quote" />
