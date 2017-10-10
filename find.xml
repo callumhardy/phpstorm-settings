@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>!--*,*.les</mask>
       <mask>!--*,*.less</mask>
@@ -24,11 +25,8 @@
       <mask>*.tp</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
-      <mask>*.phtml</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -36,6 +34,9 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
