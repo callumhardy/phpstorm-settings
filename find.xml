@@ -12,7 +12,6 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*</mask>
-      <mask>*.php</mask>
       <mask>*.tmp</mask>
       <mask>*.tm</mask>
       <mask>*.tpl</mask>
@@ -23,8 +22,6 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.phtml</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
@@ -35,6 +32,9 @@
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
