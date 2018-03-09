@@ -7,11 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.sql" />
     <recentFileMasks>
-      <mask>*.h</mask>
-      <mask>*.tmp</mask>
-      <mask>*.tm</mask>
-      <mask>*.tpl</mask>
       <mask>*.tp</mask>
       <mask>*.t</mask>
       <mask>*.pht</mask>
@@ -38,6 +35,10 @@
       <mask>*.less</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql!</mask>
+      <mask>*.sql</mask>
+      <mask>!*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
