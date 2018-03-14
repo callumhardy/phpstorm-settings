@@ -3,8 +3,9 @@
     <extensionMap>
       <mapping pattern="test.php" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.swp" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping pattern="vhost" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
