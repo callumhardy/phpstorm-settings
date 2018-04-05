@@ -6,20 +6,13 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.sc</mask>
       <mask>*.s</mask>
       <mask>*.php</mask>
       <mask>*.xm</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.phtm</mask>
-      <mask>*.phtml</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.sq</mask>
@@ -27,7 +20,6 @@
       <mask>*.sql</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>!*.s</mask>
       <mask>!*.sq</mask>
       <mask>!*.sql</mask>
@@ -36,6 +28,14 @@
       <mask>!</mask>
       <mask>*</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
