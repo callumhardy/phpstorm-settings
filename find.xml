@@ -7,24 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.sql" />
+    <option name="FILE_MASK" value="!*.sql,!*.csv,!*.log1" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql!</mask>
-      <mask>*.sql</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>!*.sq</mask>
-      <mask>*</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
       <mask>*.ph</mask>
@@ -38,7 +22,23 @@
       <mask>!*</mask>
       <mask>!*.</mask>
       <mask>!*.s</mask>
+      <mask>!*.sql//</mask>
+      <mask>!*.sql/</mask>
       <mask>!*.sql</mask>
+      <mask>!*.sql,</mask>
+      <mask>!*.sql,!</mask>
+      <mask>!*.sql,!*</mask>
+      <mask>!*.sql,!*.</mask>
+      <mask>!*.sql,!*.c</mask>
+      <mask>!*.sql,!*.cs</mask>
+      <mask>!*.sql,!*.csv</mask>
+      <mask>!*.sql,!*.csv,</mask>
+      <mask>!*.sql,!*.csv,!</mask>
+      <mask>!*.sql,!*.csv,!*</mask>
+      <mask>!*.sql,!*.csv,!*.</mask>
+      <mask>!*.sql,!*.csv,!*.l</mask>
+      <mask>!*.sql,!*.csv,!*.log</mask>
+      <mask>!*.sql,!*.csv,!*.log1</mask>
     </recentFileMasks>
   </component>
 </application>
