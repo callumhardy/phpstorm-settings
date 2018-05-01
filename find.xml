@@ -1,44 +1,42 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.sql,!*.csv,!*.log1" />
+    <option name="FILE_MASK" value="!*.sql,!*.csv,!*.log,!var/cache/" />
     <recentFileMasks>
-      <mask>*.phtm</mask>
-      <mask>*.pht</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.s</mask>
-      <mask>!*.sql//</mask>
-      <mask>!*.sql/</mask>
-      <mask>!*.sql</mask>
-      <mask>!*.sql,</mask>
-      <mask>!*.sql,!</mask>
-      <mask>!*.sql,!*</mask>
-      <mask>!*.sql,!*.</mask>
-      <mask>!*.sql,!*.c</mask>
-      <mask>!*.sql,!*.cs</mask>
-      <mask>!*.sql,!*.csv</mask>
       <mask>!*.sql,!*.csv,</mask>
       <mask>!*.sql,!*.csv,!</mask>
       <mask>!*.sql,!*.csv,!*</mask>
       <mask>!*.sql,!*.csv,!*.</mask>
       <mask>!*.sql,!*.csv,!*.l</mask>
-      <mask>!*.sql,!*.csv,!*.log</mask>
       <mask>!*.sql,!*.csv,!*.log1</mask>
+      <mask>!*.sql,!*.csv,!*.log</mask>
+      <mask>!*.sql,!*.csv,!*.log,var/cach/</mask>
+      <mask>!*.sql,!*.csv,!*.log,var/cach/*</mask>
+      <mask>!*.sql,!*.csv,!*.log,var/cache/*</mask>
+      <mask>!*.sql,!*.csv,!*.log,var/cache/</mask>
+      <mask>!*.sql,!*.csv,!*.log,var/cache</mask>
+      <mask>!*.sql,!*.csv,!*.log,var/cach</mask>
+      <mask>!*.sql,!*.csv,!*.log,var/cac</mask>
+      <mask>!*.sql,!*.csv,!*.log,var/ca</mask>
+      <mask>!*.sql,!*.csv,!*.log,var/c</mask>
+      <mask>!*.sql,!*.csv,!*.log,var/</mask>
+      <mask>!*.sql,!*.csv,!*.log,var</mask>
+      <mask>!*.sql,!*.csv,!*.log,va</mask>
+      <mask>!*.sql,!*.csv,!*.log,v</mask>
+      <mask>!*.sql,!*.csv,!*.log,</mask>
+      <mask>!*.sql,!*.csv,!*.log,!</mask>
+      <mask>!*.sql,!*.csv,!*.log,!va</mask>
+      <mask>!*.sql,!*.csv,!*.log,!var</mask>
+      <mask>!*.sql,!*.csv,!*.log,!var/</mask>
+      <mask>!*.sql,!*.csv,!*.log,!var/cac</mask>
+      <mask>!*.sql,!*.csv,!*.log,!var/cache</mask>
+      <mask>!*.sql,!*.csv,!*.log,!var/cache/**</mask>
+      <mask>!*.sql,!*.csv,!*.log,!var/cache/*</mask>
+      <mask>!*.sql,!*.csv,!*.log,!var/cache/</mask>
     </recentFileMasks>
   </component>
 </application>
