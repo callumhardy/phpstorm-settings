@@ -5,15 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml,!*.sql,!*.csv,!*.log,!var/cache/" />
+    <option name="FILE_MASK" value="!*.sql,!*.csv,!*.log,!var/cache/" />
     <recentFileMasks>
-      <mask>!*.sql,!*.csv,!*.log</mask>
-      <mask>!*.sql,!*.csv,!*.log,var/cach/</mask>
-      <mask>!*.sql,!*.csv,!*.log,var/cach/*</mask>
-      <mask>!*.sql,!*.csv,!*.log,var/cache/*</mask>
-      <mask>!*.sql,!*.csv,!*.log,var/cache/</mask>
-      <mask>!*.sql,!*.csv,!*.log,var/cache</mask>
-      <mask>!*.sql,!*.csv,!*.log,var/cach</mask>
       <mask>!*.sql,!*.csv,!*.log,var/cac</mask>
       <mask>!*.sql,!*.csv,!*.log,var/ca</mask>
       <mask>!*.sql,!*.csv,!*.log,var/c</mask>
@@ -30,13 +23,20 @@
       <mask>!*.sql,!*.csv,!*.log,!var/cache</mask>
       <mask>!*.sql,!*.csv,!*.log,!var/cache/**</mask>
       <mask>!*.sql,!*.csv,!*.log,!var/cache/*</mask>
-      <mask>!*.sql,!*.csv,!*.log,!var/cache/</mask>
-      <mask>*!*.sql,!*.csv,!*.log,!var/cache/</mask>
-      <mask>*.!*.sql,!*.csv,!*.log,!var/cache/</mask>
       <mask>*.x!*.sql,!*.csv,!*.log,!var/cache/</mask>
       <mask>*.xml.!*.sql,!*.csv,!*.log,!var/cache/</mask>
       <mask>*.xml!*.sql,!*.csv,!*.log,!var/cache/</mask>
       <mask>*.xml,!*.sql,!*.csv,!*.log,!var/cache/</mask>
+      <mask>ml,!*.sql,!*.csv,!*.log,!var/cache/</mask>
+      <mask>*!*.sql,!*.csv,!*.log,!var/cache/</mask>
+      <mask>*.!*.sql,!*.csv,!*.log,!var/cache/</mask>
+      <mask>*.p!*.sql,!*.csv,!*.log,!var/cache/</mask>
+      <mask>*.ph!*.sql,!*.csv,!*.log,!var/cache/</mask>
+      <mask>*.phtml!*.sql,!*.csv,!*.log,!var/cache/</mask>
+      <mask>*.phtml,!*.sql,!*.csv,!*.log,!var/cache/</mask>
+      <mask>l,!*.sql,!*.csv,!*.log,!var/cache/</mask>
+      <mask>,!*.sql,!*.csv,!*.log,!var/cache/</mask>
+      <mask>!*.sql,!*.csv,!*.log,!var/cache/</mask>
     </recentFileMasks>
   </component>
 </application>
