@@ -5,15 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Codebase" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>!*.sql,!*.csv,!*.log,!var/*</mask>
-      <mask>!*.sql,!*.csv,!*.log,!var/</mask>
-      <mask>!*.sql,!*.csv,!*.log,!var/re</mask>
-      <mask>!*.sql,!*.csv,!*.log,!var/rep</mask>
-      <mask>!*.sql,!*.csv,!*.log,!var/repo</mask>
-      <mask>!*.sql,!*.csv,!*.log,!var/repor</mask>
-      <mask>!*.sql,!*.csv,!*.log,!var/report</mask>
       <mask>!*.sql,!*.csv,!*.log,!var/report/</mask>
       <mask>!*.sql,!*.csv,!*.log,!var/report/*</mask>
       <mask>!*.sql,!*.csv,!*.log,!/var/report/*</mask>
@@ -37,6 +29,13 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xml</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.l</mask>
+      <mask>!*.le</mask>
+      <mask>!*.les</mask>
+      <mask>!*.less</mask>
     </recentFileMasks>
   </component>
 </application>
