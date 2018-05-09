@@ -5,13 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Codebase" />
+    <option name="FILE_MASK" value="!*.less,!*.css" />
     <recentFileMasks>
-      <mask>!*.sql,!*.csv,!*.log,!var/report/</mask>
-      <mask>!*.sql,!*.csv,!*.log,!var/report/*</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/report/*</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/eport/*</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/port/*</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/ort/*</mask>
       <mask>!*.sql,!*.csv,!*.log,!/var/rt/*</mask>
       <mask>!*.sql,!*.csv,!*.log,!/var/t/*</mask>
       <mask>!*.sql,!*.csv,!*.log,!/var//*</mask>
@@ -36,6 +31,12 @@
       <mask>!*.le</mask>
       <mask>!*.les</mask>
       <mask>!*.less</mask>
+      <mask>!*.less,</mask>
+      <mask>!*.less,!</mask>
+      <mask>!*.less,!*</mask>
+      <mask>!*.less,!*.</mask>
+      <mask>!*.less,!*.c</mask>
+      <mask>!*.less,!*.css</mask>
     </recentFileMasks>
   </component>
 </application>
