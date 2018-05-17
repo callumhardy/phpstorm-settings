@@ -6,8 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>!*.sql,!*.csv,!*.log,!/var/t/*</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var//*</mask>
       <mask>!*.sql,!*.csv,!*.log,!/var/*</mask>
       <mask>!*.sql,!*.csv,!*.log,!/var/</mask>
       <mask>!*.sql,!*.csv,!*.log,!/var/re</mask>
@@ -33,9 +31,11 @@
       <mask>!*.less,!*.c</mask>
       <mask>!*.less,!*.css</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
