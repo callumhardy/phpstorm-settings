@@ -6,26 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>!*.sql,!*.csv,!*.log,!/var/*</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/re</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/rep</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/repo</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/repor</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/report</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/var/report/</mask>
-      <mask>!*.sql,!*.csv,!*.log,!/</mask>
-      <mask>!*.sql,!*.csv,!*.log,!</mask>
-      <mask>!*.sql,!*.csv,!*.log,</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.l</mask>
-      <mask>!*.le</mask>
-      <mask>!*.les</mask>
-      <mask>!*.less</mask>
-      <mask>!*.less,</mask>
-      <mask>!*.less,!</mask>
       <mask>!*.less,!*</mask>
       <mask>!*.less,!*.</mask>
       <mask>!*.less,!*.c</mask>
@@ -36,6 +16,26 @@
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>!app</mask>
+      <mask>!app/</mask>
+      <mask>!app/ar</mask>
+      <mask>!app/a</mask>
+      <mask>!ap</mask>
+      <mask>!</mask>
+      <mask>!a</mask>
+      <mask>!artc</mask>
+      <mask>!artcoe/ap</mask>
+      <mask>!artcoe/app/</mask>
+      <mask>!/artcoe/app/**</mask>
+      <mask>!artcoe/app/**</mask>
+      <mask>!artcoe/app/*</mask>
+      <mask>!artcoe/app</mask>
+      <mask>!artcoe/a</mask>
+      <mask>!artcoe/</mask>
+      <mask>!artcoe*</mask>
+      <mask>!artcoe</mask>
+      <mask>!art</mask>
+      <mask>!ar</mask>
     </recentFileMasks>
   </component>
 </application>
