@@ -5,8 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.css" />
     <recentFileMasks>
-      <mask>!*.less,!*.css</mask>
       <mask>*</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
@@ -32,10 +32,11 @@
       <mask>!art</mask>
       <mask>!ar</mask>
       <mask>!</mask>
-      <mask>!*.</mask>
       <mask>!*.x</mask>
       <mask>*.xml</mask>
       <mask>!*.xml</mask>
+      <mask>!*.</mask>
+      <mask>!*.css</mask>
     </recentFileMasks>
   </component>
 </application>
