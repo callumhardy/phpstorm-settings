@@ -5,12 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
-      <mask>!app/ar</mask>
-      <mask>!app/a</mask>
-      <mask>!ap</mask>
-      <mask>!a</mask>
-      <mask>!artc</mask>
       <mask>!artcoe/ap</mask>
       <mask>!artcoe/app/</mask>
       <mask>!/artcoe/app/**</mask>
@@ -25,7 +21,6 @@
       <mask>!ar</mask>
       <mask>!</mask>
       <mask>!*.x</mask>
-      <mask>*.xml</mask>
       <mask>!*.css</mask>
       <mask>!*.cs</mask>
       <mask>!*.c</mask>
@@ -36,6 +31,12 @@
       <mask>!*.</mask>
       <mask>!*.xm</mask>
       <mask>!*.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtm</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
