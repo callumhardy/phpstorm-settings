@@ -7,8 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
-      <mask>!artcoe/ap</mask>
-      <mask>!artcoe/app/</mask>
       <mask>!/artcoe/app/**</mask>
       <mask>!artcoe/app/**</mask>
       <mask>!artcoe/app/*</mask>
@@ -36,6 +34,8 @@
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
+      <mask>*.phtmlquickorder_link</mask>
+      <mask>*</mask>
       <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
