@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>!</mask>
       <mask>!*.x</mask>
@@ -25,18 +24,18 @@
       <mask>*.phtm</mask>
       <mask>*.phtmlquickorder_link</mask>
       <mask>*</mask>
-      <mask>*.phtml</mask>
       <mask>*.html</mask>
       <mask>*.ml</mask>
       <mask>*.l</mask>
       <mask>*.xml</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scs</mask>
+      <mask>*.sc</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
