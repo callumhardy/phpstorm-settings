@@ -30,9 +30,6 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate" />
-  <action id="EditorPasteSimple">
-    <keyboard-shortcut first-keystroke="shift meta v" />
-  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
   <action id="Git.Branches">
@@ -70,9 +67,6 @@
     <keyboard-shortcut first-keystroke="meta quote" />
   </action>
   <action id="ParameterInfo" />
-  <action id="PasteMultiple">
-    <keyboard-shortcut first-keystroke="shift meta alt v" />
-  </action>
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
