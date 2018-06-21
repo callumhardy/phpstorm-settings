@@ -32,6 +32,14 @@
   <action id="EditorDuplicate" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
+    <keyboard-shortcut first-keystroke="shift alt end" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="shift alt f8" />
+    <keyboard-shortcut first-keystroke="shift alt page_down" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="ctrl alt b" />
   </action>
@@ -91,6 +99,25 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt end" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="alt end" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
