@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.sql" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
-      <mask>*.phtm</mask>
-      <mask>*.phtmlquickorder_link</mask>
-      <mask>*.html</mask>
-      <mask>*.ml</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.j</mask>
@@ -23,18 +19,22 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.pht</mask>
-      <mask>*.phtml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>!*.sql</mask>
+      <mask>!*.x</mask>
+      <mask>!*.xml</mask>
+      <mask>!*.xm</mask>
+      <mask>!</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
