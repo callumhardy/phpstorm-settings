@@ -4,36 +4,36 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.m</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.php</mask>
-      <mask>*.x</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.pht</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>!*.sql</mask>
-      <mask>!*.x</mask>
+      <mask>!**.xml</mask>
       <mask>!*.xml</mask>
-      <mask>!*.xm</mask>
+      <mask>!.xml</mask>
+      <mask>!ml</mask>
+      <mask>!l</mask>
       <mask>!</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.phtml</mask>
+      <mask>a</mask>
+      <mask>ar</mask>
+      <mask>art</mask>
+      <mask>artc</mask>
+      <mask>artco</mask>
+      <mask>artcoe</mask>
+      <mask>artcoe/</mask>
+      <mask>artcoe/*</mask>
+      <mask>artcoe/*/</mask>
+      <mask>artcoe/*/*</mask>
+      <mask>artcoe/*/*/</mask>
+      <mask>artcoe/*/*/*</mask>
+      <mask>artcoe/*/*/*/</mask>
+      <mask>artcoe/*/*/*/*</mask>
+      <mask>artcoe/*/*/*/*/</mask>
+      <mask>artcoe/*/*/*/*/*</mask>
+      <mask>artcoe/*/*/*/*/*/</mask>
+      <mask>artcoe/*/*/*/*/*/*</mask>
+      <mask>artcoe/*/*/*/*/*/*/</mask>
+      <mask>artcoe/*/*/*/*/*/*/*</mask>
+      <mask>artcoe/*/*/*/*/*/*/*.</mask>
+      <mask>artcoe/*/*/*/*/*/*/*.x</mask>
+      <mask>artcoe/*/*/*/*/*/*/*.xm</mask>
+      <mask>artcoe/*/*/*/*/*/*/*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
