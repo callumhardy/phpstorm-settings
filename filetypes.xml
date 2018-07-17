@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="lock" type="JSON" />
+      <mapping pattern="deployer" type="PHP" />
       <mapping pattern="test.php" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.swp" type="PLAIN_TEXT" />
       <mapping pattern="vhost" type="PLAIN_TEXT" />
