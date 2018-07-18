@@ -494,7 +494,7 @@
             <configuration_option name="memcache.protocol" value="ascii" />
             <configuration_option name="memcache.redundancy" value="1" />
             <configuration_option name="memcache.session_redundancy" value="2" />
-            <configuration_option name="memory_limit" value="1024M" />
+            <configuration_option name="memory_limit" value="128M" />
             <configuration_option name="mongodb.debug" value="" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
@@ -629,8 +629,8 @@
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
             <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="" />
-            <configuration_option name="xdebug.max_nesting_level" value="256" />
+            <configuration_option name="xdebug.idekey" value="PHPSTORM" />
+            <configuration_option name="xdebug.max_nesting_level" value="512" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
             <configuration_option name="xdebug.overload_var_dump" value="2" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
@@ -641,8 +641,8 @@
             <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="0" />
-            <configuration_option name="xdebug.remote_connect_back" value="0" />
+            <configuration_option name="xdebug.remote_autostart" value="1" />
+            <configuration_option name="xdebug.remote_connect_back" value="1" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_handler" value="dbgp" />
@@ -859,7 +859,7 @@
             <configuration_option name="memcache.protocol" value="ascii" />
             <configuration_option name="memcache.redundancy" value="1" />
             <configuration_option name="memcache.session_redundancy" value="2" />
-            <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="memory_limit" value="512M" />
             <configuration_option name="mongodb.debug" value="" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
@@ -900,7 +900,7 @@
             <configuration_option name="pgsql.max_links" value="-1" />
             <configuration_option name="pgsql.max_persistent" value="-1" />
             <configuration_option name="phar.cache_list" value="" />
-            <configuration_option name="phar.readonly" value="1" />
+            <configuration_option name="phar.readonly" value="" />
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="phpd" value="1" />
             <configuration_option name="phpd.t" value="1" />
