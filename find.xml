@@ -4,10 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>artc</mask>
-      <mask>artco</mask>
-      <mask>artcoe</mask>
-      <mask>artcoe/</mask>
       <mask>artcoe/*</mask>
       <mask>artcoe/*/</mask>
       <mask>artcoe/*/*</mask>
@@ -31,9 +27,13 @@
       <mask>!*.c</mask>
       <mask>!*.css</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
