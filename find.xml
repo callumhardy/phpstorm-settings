@@ -3,19 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="!*.css" />
     <recentFileMasks>
-      <mask>artcoe/*/*/*/*/*/*/</mask>
-      <mask>artcoe/*/*/*/*/*/*/*</mask>
       <mask>artcoe/*/*/*/*/*/*/*.</mask>
       <mask>artcoe/*/*/*/*/*/*/*.x</mask>
       <mask>artcoe/*/*/*/*/*/*/*.xm</mask>
       <mask>artcoe/*/*/*/*/*/*/*.xml</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.c</mask>
-      <mask>!*.css</mask>
       <mask>*.les</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
@@ -31,10 +24,17 @@
       <mask>*</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.less</mask>
+      <mask>*.js</mask>
+      <mask>!.</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.c</mask>
+      <mask>!*.cs</mask>
+      <mask>!*.css</mask>
     </recentFileMasks>
   </component>
 </application>
