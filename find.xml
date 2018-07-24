@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>artcoe/*/*/*/*/*/*</mask>
       <mask>artcoe/*/*/*/*/*/*/</mask>
       <mask>artcoe/*/*/*/*/*/*/*</mask>
       <mask>artcoe/*/*/*/*/*/*/*.</mask>
@@ -16,24 +15,25 @@
       <mask>!*.</mask>
       <mask>!*.c</mask>
       <mask>!*.css</mask>
-      <mask>*</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.php</mask>
-      <mask>*.p</mask>
       <mask>*.ph</mask>
-      <mask>*.phtml</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
