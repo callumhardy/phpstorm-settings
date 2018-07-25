@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="AddToFavoritesPopup" />
+  <action id="Bash.AddReplAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
   </action>
