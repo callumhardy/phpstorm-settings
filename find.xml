@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>!*.</mask>
       <mask>!*.c</mask>
       <mask>!*.cs</mask>
       <mask>!*.css</mask>
@@ -26,7 +25,6 @@
       <mask>*.php</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.phtml</mask>
@@ -34,6 +32,8 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
