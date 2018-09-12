@@ -124,7 +124,7 @@
             <configuration_option name="memcache.protocol" value="ascii" />
             <configuration_option name="memcache.redundancy" value="1" />
             <configuration_option name="memcache.session_redundancy" value="2" />
-            <configuration_option name="memory_limit" value="512M" />
+            <configuration_option name="memory_limit" value="2048M" />
             <configuration_option name="mongo.allow_empty_keys" value="0" />
             <configuration_option name="mongo.chunk_size" value="261120" />
             <configuration_option name="mongo.cmd" value="$" />
@@ -302,6 +302,7 @@
             <configuration_option name="xdebug.var_display_max_depth" value="3" />
             <configuration_option name="xmlrpc_error_number" value="0" />
             <configuration_option name="xmlrpc_errors" value="0" />
+            <configuration_option name="xsl.security_prefs" value="44" />
             <configuration_option name="zend.detect_unicode" value="1" />
             <configuration_option name="zend.enable_gc" value="1" />
             <configuration_option name="zend.multibyte" value="0" />
@@ -377,6 +378,7 @@
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
+            <extension name="xsl" />
             <extension name="zip" />
             <extension name="zlib" />
           </loaded_extensions>
@@ -1384,7 +1386,7 @@
             <configuration_option name="xdebug.force_error_reporting" value="0" />
             <configuration_option name="xdebug.halt_level" value="0" />
             <configuration_option name="xdebug.idekey" value="PHPSTORM" />
-            <configuration_option name="xdebug.max_nesting_level" value="512" />
+            <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
             <configuration_option name="xdebug.overload_var_dump" value="2" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
