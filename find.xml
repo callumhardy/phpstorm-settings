@@ -5,19 +5,13 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.css" />
     <recentFileMasks>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.xm</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*n.js</mask>
       <mask>*n.j</mask>
       <mask>*n.</mask>
       <mask>*n</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.pht</mask>
       <mask>*.phtm</mask>
       <mask>*.phtml</mask>
@@ -27,7 +21,6 @@
       <mask>*.less</mask>
       <mask>!*.js</mask>
       <mask>!*.j</mask>
-      <mask>*</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>!</mask>
@@ -37,6 +30,12 @@
       <mask>!*.c</mask>
       <mask>!*.cs</mask>
       <mask>!*.css</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
