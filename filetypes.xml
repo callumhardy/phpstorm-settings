@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore*" type="Bash" />
       <mapping pattern=".gitignore" type="Bash" />
       <removed_mapping pattern=".gitignore" type="Git file" />
+      <mapping ext="concrete" type="JSON" />
       <mapping ext="lock" type="JSON" />
       <mapping pattern="deployer" type="PHP" />
       <mapping pattern="SAA_CustomerY-testxml" type="PLAIN_TEXT" />
