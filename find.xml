@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
       <mask>!*.js</mask>
       <mask>!*.j</mask>
@@ -16,14 +16,9 @@
       <mask>!*.css</mask>
       <mask>.</mask>
       <mask>*</mask>
-      <mask>*.pht</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.phtm</mask>
-      <mask>*.phtml</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
@@ -35,6 +30,11 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtm</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
