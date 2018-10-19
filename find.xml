@@ -21,9 +21,6 @@
       <mask>*.css</mask>
       <mask>*.phy</mask>
       <mask>*.phtm</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.l</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
@@ -34,6 +31,9 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
