@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="!*.sql" />
     <recentFileMasks>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.s</mask>
-      <mask>!*.</mask>
       <mask>!*.c</mask>
       <mask>!*.cs</mask>
       <mask>!*.css</mask>
@@ -35,6 +31,10 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>!</mask>
+      <mask>!*</mask>
+      <mask>!*.</mask>
+      <mask>!*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
