@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.phtml.asset-block</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.sql</mask>
-      <mask>*.les</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.less</mask>
-      <mask>*.phtm</mask>
-      <mask>*.pp</mask>
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
@@ -22,7 +12,6 @@
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
@@ -34,6 +23,18 @@
       <mask>*Data.p</mask>
       <mask>*Data.ph</mask>
       <mask>*Data.php</mask>
+      <mask>v</mask>
+      <mask>vi</mask>
+      <mask>view</mask>
+      <mask>view.</mask>
+      <mask>view.x</mask>
+      <mask>view.xm</mask>
+      <mask>view.xml</mask>
+      <mask>iew.xml</mask>
+      <mask>ew.xml</mask>
+      <mask>w.xml</mask>
+      <mask>.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
