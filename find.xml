@@ -1,23 +1,17 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*Data.php" />
     <recentFileMasks>
-      <mask>!*.cs</mask>
-      <mask>!*.css</mask>
-      <mask>.</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.phy</mask>
       <mask>*.phtml.asset-block</mask>
       <mask>!</mask>
       <mask>!*</mask>
       <mask>!*.</mask>
       <mask>!*.sql</mask>
-      <mask>*</mask>
       <mask>*.les</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
@@ -27,14 +21,22 @@
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
-      <mask>*.xm</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>*D</mask>
+      <mask>*Da</mask>
+      <mask>*Data</mask>
+      <mask>*Data.</mask>
+      <mask>*Data.p</mask>
+      <mask>*Data.ph</mask>
+      <mask>*Data.php</mask>
     </recentFileMasks>
   </component>
 </application>
