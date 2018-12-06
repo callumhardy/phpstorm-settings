@@ -32,8 +32,8 @@
       <mask>ew.xml</mask>
       <mask>w.xml</mask>
       <mask>.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.php</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
