@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*D</mask>
       <mask>*Da</mask>
       <mask>*Data</mask>
@@ -29,13 +28,15 @@
       <mask>*.less</mask>
       <mask>*.less</mask>
       <mask>*.xm</mask>
+      <mask>*.php</mask>
+      <mask>*.php</mask>
+      <mask>*.x</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml</mask>
       <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.php</mask>
-      <mask>*.x</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.xml</mask>
+      <mask>*.ph</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
