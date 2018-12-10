@@ -5,9 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php " />
     <recentFileMasks>
-      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*</mask>
       <mask>*D</mask>
@@ -28,14 +26,15 @@
       <mask>ew.xml</mask>
       <mask>w.xml</mask>
       <mask>.xml</mask>
-      <mask>*.php</mask>
-      <mask>*.xml</mask>
       <mask>*.less</mask>
       <mask>*.less</mask>
       <mask>*.x</mask>
+      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.xml</mask>
       <mask>*.p</mask>
+      <mask>*.php</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
