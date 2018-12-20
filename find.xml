@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Data.p</mask>
       <mask>*Data.ph</mask>
       <mask>*Data.php</mask>
       <mask>v</mask>
@@ -18,22 +19,23 @@
       <mask>ew.xml</mask>
       <mask>w.xml</mask>
       <mask>.xml</mask>
-      <mask>*.ph</mask>
-      <mask>*.phtml</mask>
       <mask>*.xm</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.php</mask>
-      <mask>*.x</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.less</mask>
+      <mask>*.x</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.php</mask>
+      <mask>*.php</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
