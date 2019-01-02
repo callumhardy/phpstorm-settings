@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*Data.ph</mask>
-      <mask>*Data.php</mask>
       <mask>v</mask>
       <mask>vi</mask>
       <mask>view</mask>
@@ -36,6 +35,8 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.less</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
