@@ -3,17 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.xm</mask>
-      <mask>*.l</mask>
       <mask>*.x</mask>
       <mask>*.x</mask>
       <mask>*.pht</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.less</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>widget.xm</mask>
       <mask>w</mask>
@@ -32,8 +27,14 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.phtml</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
