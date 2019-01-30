@@ -6,7 +6,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*</mask>
       <mask>widget.xm</mask>
       <mask>w</mask>
       <mask>wi</mask>
@@ -22,11 +21,6 @@
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
-      <mask>*.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.x</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
@@ -36,6 +30,12 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.less</mask>
+      <mask>*.xn</mask>
+      <mask>*.x</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
