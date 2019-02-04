@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>widget.xm</mask>
       <mask>w</mask>
@@ -28,14 +29,14 @@
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
