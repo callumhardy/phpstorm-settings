@@ -28,14 +28,14 @@
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>*.x</mask>
+      <mask>*.x</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
