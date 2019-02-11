@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>widget.xm</mask>
       <mask>w</mask>
@@ -14,7 +15,6 @@
       <mask>widget.</mask>
       <mask>widget.x</mask>
       <mask>widget.xml</mask>
-      <mask>*.ph</mask>
       <mask>*.phtml</mask>
       <mask>*.lr</mask>
       <mask>*.l</mask>
@@ -23,9 +23,6 @@
       <mask>*.less</mask>
       <mask>*.less</mask>
       <mask>*.xn</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.php</mask>
       <mask>*.x</mask>
       <mask>*.x</mask>
       <mask>*.js</mask>
@@ -34,6 +31,10 @@
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
