@@ -19,7 +19,6 @@
       <mask>*.less</mask>
       <mask>*.less</mask>
       <mask>*.xn</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
@@ -34,6 +33,7 @@
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
