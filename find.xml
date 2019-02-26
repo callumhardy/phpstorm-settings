@@ -14,26 +14,26 @@
       <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.p[</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.pht</mask>
-      <mask>*.phtml</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.csv</mask>
       <mask>*.xm</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
+      <mask>*.less</mask>
+      <mask>*.less</mask>
       <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.less</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
