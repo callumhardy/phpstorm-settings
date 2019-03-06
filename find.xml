@@ -10,8 +10,6 @@
       <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.p[</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.csv</mask>
@@ -34,6 +32,8 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
