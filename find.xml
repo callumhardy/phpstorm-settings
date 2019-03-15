@@ -12,19 +12,9 @@
       <mask>*.cs</mask>
       <mask>*.csv</mask>
       <mask>*.xm</mask>
-      <mask>*.s</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.less</mask>
       <mask>*.p</mask>
       <mask>*.phtml</mask>
       <mask>*.phtm</mask>
@@ -36,6 +26,16 @@
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.less</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
