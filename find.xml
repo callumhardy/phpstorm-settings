@@ -13,11 +13,8 @@
       <mask>*.csv</mask>
       <mask>*.xm</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
-      <mask>*.phtml</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.x</mask>
@@ -29,13 +26,16 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
