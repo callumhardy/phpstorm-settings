@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.lock" />
     <recentFileMasks>
-      <mask>*.csv</mask>
-      <mask>*.xm</mask>
-      <mask>*</mask>
       <mask>*.phtm</mask>
       <mask>*.pht</mask>
       <mask>*.x</mask>
@@ -15,7 +13,6 @@
       <mask>*.xml</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
@@ -34,6 +31,10 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.l</mask>
+      <mask>*.lo</mask>
+      <mask>*.loc</mask>
+      <mask>*.lock</mask>
     </recentFileMasks>
   </component>
 </application>
