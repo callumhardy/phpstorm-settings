@@ -385,7 +385,7 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP-7.1.8 AMPPS">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/AMPPS/php-7.1/bin/php-cgi" php_cli="/Applications/AMPPS/php-7.1/bin/php" path_separator=":" version="7.1.8">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/AMPPS/php-7.1/bin/php-cgi" php_cli="/Applications/AMPPS/php-7.1/bin/php" path_separator=":" version="7.1.8" warning="PHP Warning:  PHP Startup: xmlrpc: Unable to initialize module&#10;Module compiled with module API=20151012&#10;PHP    compiled with module API=20160303&#10;These options need to match&#10; in Unknown on line 0&#10;">
           <additional_php_ini />
           <configuration_file>/Applications/AMPPS/php-7.1/etc/php.ini</configuration_file>
           <configuration_options>
@@ -406,7 +406,7 @@
             <configuration_option name="auto_prepend_file" value="" />
             <configuration_option name="bcmath.scale" value="0" />
             <configuration_option name="browscap" value="" />
-            <configuration_option name="curl.cainfo" value="" />
+            <configuration_option name="curl.cainfo" value="/Applications/AMPPS/extra/etc/openssl/certs/cacert.pem" />
             <configuration_option name="date.default_latitude" value="31.7667" />
             <configuration_option name="date.default_longitude" value="35.2333" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
@@ -497,7 +497,7 @@
             <configuration_option name="memcache.protocol" value="ascii" />
             <configuration_option name="memcache.redundancy" value="1" />
             <configuration_option name="memcache.session_redundancy" value="2" />
-            <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="memory_limit" value="512M" />
             <configuration_option name="mongodb.debug" value="" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
@@ -522,7 +522,7 @@
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
             <configuration_option name="open_basedir" value="" />
-            <configuration_option name="openssl.cafile" value="" />
+            <configuration_option name="openssl.cafile" value="/Applications/AMPPS/extra/etc/openssl/certs/cacert.pem" />
             <configuration_option name="openssl.capath" value="" />
             <configuration_option name="output_buffering" value="0" />
             <configuration_option name="output_encoding" value="" />
@@ -538,7 +538,7 @@
             <configuration_option name="pgsql.max_links" value="-1" />
             <configuration_option name="pgsql.max_persistent" value="-1" />
             <configuration_option name="phar.cache_list" value="" />
-            <configuration_option name="phar.readonly" value="1" />
+            <configuration_option name="phar.readonly" value="" />
             <configuration_option name="phar.require_hash" value="1" />
             <configuration_option name="phpd" value="1" />
             <configuration_option name="phpd.t" value="1" />
