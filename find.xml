@@ -3,13 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="system.xml" />
     <recentFileMasks>
-      <mask>*.lock</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.json</mask>
-      <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.pht</mask>
       <mask>*.less</mask>
@@ -34,6 +29,12 @@
       <mask>vir.xml</mask>
       <mask>vie.xml</mask>
       <mask>view.xml</mask>
+      <mask>s.xml</mask>
+      <mask>sy.xml</mask>
+      <mask>sys.xml</mask>
+      <mask>syst.xml</mask>
+      <mask>syste.xml</mask>
+      <mask>system.xml</mask>
     </recentFileMasks>
   </component>
 </application>
