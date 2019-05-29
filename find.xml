@@ -3,14 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>sys.xml</mask>
-      <mask>syst.xml</mask>
-      <mask>syste.xml</mask>
-      <mask>system.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*.xml</mask>
       <mask>.</mask>
       <mask>.h</mask>
       <mask>.ht</mask>
@@ -24,7 +17,6 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.s</mask>
       <mask>*.scss</mask>
@@ -35,6 +27,13 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.phtml</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
