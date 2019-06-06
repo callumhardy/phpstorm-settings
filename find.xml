@@ -1,12 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>.h</mask>
       <mask>.ht</mask>
       <mask>.hta</mask>
       <mask>.htac</mask>
@@ -15,8 +12,6 @@
       <mask>.htacces</mask>
       <mask>.htaccess</mask>
       <mask>*</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.s</mask>
       <mask>*.scss</mask>
@@ -36,6 +31,9 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.csv</mask>
     </recentFileMasks>
   </component>
 </application>
