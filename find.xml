@@ -18,15 +18,12 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.phtml</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.lesss</mask>
-      <mask>*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -34,6 +31,9 @@
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.csv</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
