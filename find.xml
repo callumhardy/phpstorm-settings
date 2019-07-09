@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>.ht</mask>
-      <mask>.hta</mask>
       <mask>.htac</mask>
       <mask>.htacc</mask>
       <mask>.htacce</mask>
@@ -17,7 +15,6 @@
       <mask>*.scss</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.phtml</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.lesss</mask>
@@ -27,13 +24,16 @@
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.xml</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.pht</mask>
+      <mask>*.phtm</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
