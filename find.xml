@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.js" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>.htacc</mask>
       <mask>.htacce</mask>
@@ -35,8 +35,8 @@
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>!*.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
