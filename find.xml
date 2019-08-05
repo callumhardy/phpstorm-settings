@@ -5,20 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="module.xml" />
     <recentFileMasks>
-      <mask>.htacc</mask>
-      <mask>.htacce</mask>
-      <mask>.htacces</mask>
-      <mask>.htaccess</mask>
-      <mask>*</mask>
-      <mask>*.css</mask>
-      <mask>*.s</mask>
-      <mask>*.scss</mask>
-      <mask>*.x</mask>
-      <mask>*.lesss</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
       <mask>*.csv</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -37,6 +25,18 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.php</mask>
+      <mask>m</mask>
+      <mask>mo</mask>
+      <mask>mod</mask>
+      <mask>modl</mask>
+      <mask>modlu</mask>
+      <mask>modlue</mask>
+      <mask>modlue.</mask>
+      <mask>modlue.x</mask>
+      <mask>modlue.xm</mask>
+      <mask>modlue.xml</mask>
+      <mask>modlule.xml</mask>
+      <mask>module.xml</mask>
     </recentFileMasks>
   </component>
 </application>
