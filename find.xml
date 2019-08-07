@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>*.php</mask>
-      <mask>m</mask>
-      <mask>mo</mask>
       <mask>mod</mask>
       <mask>modl</mask>
       <mask>modlu</mask>
@@ -18,13 +15,10 @@
       <mask>modlue.xml</mask>
       <mask>modlule.xml</mask>
       <mask>module.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>.</mask>
       <mask>.g</mask>
       <mask>.gi</mask>
       <mask>.git</mask>
@@ -34,6 +28,13 @@
       <mask>.gitigno</mask>
       <mask>.gitignor</mask>
       <mask>.gitignore</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
