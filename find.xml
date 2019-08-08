@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value=".gitignore" />
     <recentFileMasks>
       <mask>mod</mask>
       <mask>modl</mask>
@@ -19,22 +19,22 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>.g</mask>
       <mask>.gi</mask>
-      <mask>.git</mask>
-      <mask>.giti</mask>
-      <mask>.gitig</mask>
-      <mask>.gitign</mask>
       <mask>.gitigno</mask>
       <mask>.gitignor</mask>
-      <mask>.gitignore</mask>
-      <mask>.</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>.</mask>
+      <mask>.g</mask>
+      <mask>.git</mask>
+      <mask>.giti</mask>
+      <mask>.gitig</mask>
+      <mask>.gitign</mask>
+      <mask>.gitignore</mask>
     </recentFileMasks>
   </component>
 </application>
