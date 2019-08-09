@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>mod</mask>
-      <mask>modl</mask>
       <mask>modlu</mask>
       <mask>modlue</mask>
       <mask>modlue.</mask>
@@ -21,19 +20,21 @@
       <mask>.gi</mask>
       <mask>.gitigno</mask>
       <mask>.gitignor</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>.</mask>
       <mask>.g</mask>
       <mask>.git</mask>
       <mask>.giti</mask>
       <mask>.gitig</mask>
       <mask>.gitign</mask>
       <mask>.gitignore</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
