@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>modlu</mask>
-      <mask>modlue</mask>
-      <mask>modlue.</mask>
       <mask>modlue.x</mask>
       <mask>modlue.xm</mask>
       <mask>modlue.xml</mask>
@@ -31,9 +29,12 @@
       <mask>.gitignore</mask>
       <mask>.</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
