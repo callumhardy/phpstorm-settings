@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>.gi</mask>
-      <mask>.gitigno</mask>
-      <mask>.gitignor</mask>
-      <mask>.g</mask>
-      <mask>.git</mask>
-      <mask>.giti</mask>
-      <mask>.gitig</mask>
-      <mask>.gitign</mask>
-      <mask>.gitignore</mask>
-      <mask>.</mask>
-      <mask>*</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
@@ -32,7 +20,20 @@
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
+      <mask>*.phconfig</mask>
+      <mask>*.phconfi</mask>
+      <mask>*.phconf</mask>
+      <mask>*.phcon</mask>
+      <mask>*.phco</mask>
+      <mask>*.phc</mask>
       <mask>*.ph</mask>
+      <mask>config.php</mask>
+      <mask>confi.php</mask>
+      <mask>conf.php</mask>
+      <mask>con.php</mask>
+      <mask>co.php</mask>
+      <mask>c.php</mask>
+      <mask>.php</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
