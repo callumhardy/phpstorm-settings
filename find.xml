@@ -10,14 +10,12 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.p</mask>
       <mask>*.phconfig</mask>
       <mask>*.phconfi</mask>
       <mask>*.phconf</mask>
       <mask>*.phcon</mask>
       <mask>*.phco</mask>
       <mask>*.phc</mask>
-      <mask>*.ph</mask>
       <mask>config.php</mask>
       <mask>confi.php</mask>
       <mask>conf.php</mask>
@@ -25,7 +23,6 @@
       <mask>co.php</mask>
       <mask>c.php</mask>
       <mask>.php</mask>
-      <mask>*.php</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -33,9 +30,12 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
