@@ -5,37 +5,38 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ph*" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.phconfig</mask>
-      <mask>*.phconfi</mask>
-      <mask>*.phconf</mask>
-      <mask>*.phcon</mask>
-      <mask>*.phco</mask>
-      <mask>*.phc</mask>
-      <mask>config.php</mask>
-      <mask>confi.php</mask>
-      <mask>conf.php</mask>
-      <mask>con.php</mask>
-      <mask>co.php</mask>
-      <mask>c.php</mask>
-      <mask>.php</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
+      <mask>*.php</mask>
+      <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>*.pht</mask>
+      <mask>*</mask>
+      <mask>c</mask>
+      <mask>ch</mask>
+      <mask>ch*</mask>
+      <mask>ch*.</mask>
+      <mask>ch*.x</mask>
+      <mask>ch*.xm</mask>
+      <mask>ch*.xml</mask>
+      <mask>chf.xml</mask>
+      <mask>hf.xml</mask>
+      <mask>*hf.xml</mask>
+      <mask>*h*.xml</mask>
+      <mask>*h.xml</mask>
+      <mask>.xml</mask>
+      <mask>d.xml</mask>
+      <mask>de.xml</mask>
+      <mask>de_.xml</mask>
+      <mask>de_C.xml</mask>
+      <mask>de_CH.xml</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
+      <mask>*.ph*</mask>
     </recentFileMasks>
   </component>
 </application>
