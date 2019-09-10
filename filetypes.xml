@@ -23,7 +23,6 @@
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
@@ -32,7 +31,6 @@
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="css-back" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
-      <removed_mapping ext="conf" type="SmartyConfig" />
     </extensionMap>
   </component>
 </application>
