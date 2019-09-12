@@ -9,6 +9,7 @@
       <mapping ext="lock" type="JSON" />
       <mapping pattern="deployer" type="PHP" />
       <mapping pattern="SAA_CustomerY-testxml" type="PLAIN_TEXT" />
+      <mapping pattern="satisfiable" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dist.production" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dist.development" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.dist.production" type="PLAIN_TEXT" />
