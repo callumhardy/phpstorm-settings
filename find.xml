@@ -1,16 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>c</mask>
-      <mask>ch</mask>
-      <mask>ch*</mask>
       <mask>ch*.</mask>
       <mask>ch*.x</mask>
       <mask>ch*.xm</mask>
@@ -26,18 +21,21 @@
       <mask>de_.xml</mask>
       <mask>de_C.xml</mask>
       <mask>de_CH.xml</mask>
-      <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.ph*</mask>
       <mask>*.j</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.xml</mask>
       <mask>*.hml</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
