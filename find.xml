@@ -5,7 +5,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>chf.xml</mask>
       <mask>hf.xml</mask>
@@ -20,10 +19,8 @@
       <mask>de_CH.xml</mask>
       <mask>*.x</mask>
       <mask>*.ph*</mask>
-      <mask>*.j</mask>
       <mask>*.ph</mask>
       <mask>*.hml</mask>
-      <mask>*.js</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -37,6 +34,8 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
