@@ -15,7 +15,6 @@
       <mask>de_.xml</mask>
       <mask>de_C.xml</mask>
       <mask>de_CH.xml</mask>
-      <mask>*.x</mask>
       <mask>*.ph*</mask>
       <mask>*.ph</mask>
       <mask>*.hml</mask>
@@ -26,7 +25,6 @@
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
@@ -34,6 +32,8 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
