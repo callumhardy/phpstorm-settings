@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ph*" />
     <recentFileMasks>
-      <mask>chf.xml</mask>
-      <mask>hf.xml</mask>
       <mask>*hf.xml</mask>
       <mask>*h*.xml</mask>
       <mask>*h.xml</mask>
@@ -15,25 +14,27 @@
       <mask>de_.xml</mask>
       <mask>de_C.xml</mask>
       <mask>de_CH.xml</mask>
-      <mask>*.ph*</mask>
       <mask>*.ph</mask>
       <mask>*.hml</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.xm</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.xp</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.p*</mask>
+      <mask>*.ph*</mask>
     </recentFileMasks>
   </component>
 </application>
