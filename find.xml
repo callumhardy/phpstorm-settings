@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="di.xml" />
     <recentFileMasks>
-      <mask>*h*.xml</mask>
-      <mask>*h.xml</mask>
-      <mask>.xml</mask>
-      <mask>d.xml</mask>
-      <mask>de.xml</mask>
-      <mask>de_.xml</mask>
-      <mask>de_C.xml</mask>
       <mask>de_CH.xml</mask>
       <mask>*.hml</mask>
       <mask>*.htm</mask>
@@ -18,14 +12,11 @@
       <mask>*.p*</mask>
       <mask>*.ph*</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*</mask>
-      <mask>*.xml</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -34,6 +25,16 @@
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.xmld</mask>
+      <mask>*.xmldi</mask>
+      <mask>d</mask>
+      <mask>di</mask>
+      <mask>di.</mask>
+      <mask>di.x</mask>
+      <mask>di.xml</mask>
     </recentFileMasks>
   </component>
 </application>
