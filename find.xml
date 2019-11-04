@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="di.xml" />
+    <option name="FILE_MASK" value="crontab.xml" />
     <recentFileMasks>
-      <mask>de_CH.xml</mask>
       <mask>*.hml</mask>
       <mask>*.htm</mask>
       <mask>*.xp</mask>
@@ -35,6 +34,7 @@
       <mask>di.</mask>
       <mask>di.x</mask>
       <mask>di.xml</mask>
+      <mask>crontab.xml</mask>
     </recentFileMasks>
   </component>
 </application>
