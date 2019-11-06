@@ -21,8 +21,6 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xmld</mask>
       <mask>*.xmldi</mask>
       <mask>d</mask>
@@ -32,8 +30,10 @@
       <mask>di.xml</mask>
       <mask>crontab.xml</mask>
       <mask>.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
