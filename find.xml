@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>di</mask>
       <mask>di.</mask>
@@ -28,7 +27,6 @@
       <mask>*.j</mask>
       <mask>*re.js</mask>
       <mask>*r.js</mask>
-      <mask>*.js</mask>
       <mask>.js</mask>
       <mask>re.js</mask>
       <mask>req.js</mask>
@@ -36,6 +34,7 @@
       <mask>requi.js</mask>
       <mask>require.js</mask>
       <mask>require*.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
