@@ -6,23 +6,12 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.h</mask>
-      <mask>*.ht</mask>
-      <mask>*.html</mask>
-      <mask>*.j</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
-      <mask>*.xmld</mask>
-      <mask>*.xmldi</mask>
-      <mask>d</mask>
       <mask>di</mask>
       <mask>di.</mask>
       <mask>di.x</mask>
       <mask>di.xml</mask>
       <mask>crontab.xml</mask>
       <mask>.xml</mask>
-      <mask>*.js</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
@@ -36,6 +25,17 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.j</mask>
+      <mask>*re.js</mask>
+      <mask>*r.js</mask>
+      <mask>*.js</mask>
+      <mask>.js</mask>
+      <mask>re.js</mask>
+      <mask>req.js</mask>
+      <mask>requ.js</mask>
+      <mask>requi.js</mask>
+      <mask>require.js</mask>
+      <mask>require*.js</mask>
     </recentFileMasks>
   </component>
 </application>
