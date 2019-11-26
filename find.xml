@@ -3,17 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*re.js</mask>
-      <mask>*r.js</mask>
-      <mask>.js</mask>
-      <mask>re.js</mask>
-      <mask>req.js</mask>
-      <mask>requ.js</mask>
       <mask>requi.js</mask>
       <mask>require.js</mask>
       <mask>require*.js</mask>
@@ -35,6 +25,15 @@
       <mask>*.h</mask>
       <mask>*.ht</mask>
       <mask>*.html</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>.xml</mask>
+      <mask>c.xml</mask>
+      <mask>cr.xml</mask>
+      <mask>cron.xml</mask>
+      <mask>cront.xml</mask>
+      <mask>cronta.xml</mask>
+      <mask>crontab.xml</mask>
     </recentFileMasks>
   </component>
 </application>
