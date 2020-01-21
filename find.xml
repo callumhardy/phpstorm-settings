@@ -3,33 +3,32 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>.xml</mask>
-      <mask>c.xml</mask>
-      <mask>cr.xml</mask>
-      <mask>cron.xml</mask>
-      <mask>cront.xml</mask>
-      <mask>cronta.xml</mask>
-      <mask>crontab.xml</mask>
-      <mask>*</mask>
-      <mask>*.scs*.scsss</mask>
-      <mask>*.scs*.</mask>
-      <mask>*.scs*</mask>
-      <mask>*.xm</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.php</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
       <mask>*.s</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.xmls</mask>
+      <mask>*.xmlsy</mask>
+      <mask>*.xmlsys</mask>
+      <mask>*.xmlsyst</mask>
+      <mask>*.xmlsyste</mask>
+      <mask>*.xmlsystem</mask>
+      <mask>s</mask>
+      <mask>sy</mask>
+      <mask>sys</mask>
+      <mask>syst</mask>
+      <mask>syste</mask>
+      <mask>system</mask>
+      <mask>system.</mask>
+      <mask>system.x</mask>
+      <mask>system.xm</mask>
+      <mask>system.xml</mask>
+      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
