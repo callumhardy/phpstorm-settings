@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.env" />
     <recentFileMasks>
-      <mask>sy</mask>
-      <mask>sys</mask>
-      <mask>syst</mask>
-      <mask>syste</mask>
-      <mask>system</mask>
-      <mask>system.</mask>
-      <mask>system.x</mask>
       <mask>system.xm</mask>
       <mask>system.xml</mask>
       <mask>*</mask>
@@ -34,6 +28,13 @@
       <mask>*confi.js</mask>
       <mask>*config..js</mask>
       <mask>*config.js</mask>
+      <mask>&amp;</mask>
+      <mask>&amp;.</mask>
+      <mask>&amp;.e</mask>
+      <mask>&amp;.en</mask>
+      <mask>&amp;.env</mask>
+      <mask>.env</mask>
+      <mask>*.env</mask>
     </recentFileMasks>
   </component>
 </application>
