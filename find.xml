@@ -3,37 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="_extend.less" />
     <recentFileMasks>
-      <mask>*config..js</mask>
-      <mask>*config.js</mask>
-      <mask>&amp;</mask>
-      <mask>&amp;.</mask>
-      <mask>&amp;.e</mask>
-      <mask>&amp;.en</mask>
-      <mask>&amp;.env</mask>
-      <mask>.env</mask>
-      <mask>*.env</mask>
-      <mask>*.en</mask>
-      <mask>*.e</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.j</mask>
-      <mask>*.xm</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.pht</mask>
-      <mask>*.phtm</mask>
-      <mask>*.phtml</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>e</mask>
+      <mask>em</mask>
+      <mask>emai</mask>
+      <mask>email</mask>
+      <mask>email.</mask>
+      <mask>email.l</mask>
+      <mask>email.le</mask>
+      <mask>email.les</mask>
+      <mask>_email.less</mask>
+      <mask>email.less</mask>
+      <mask>*email.less</mask>
+      <mask>*mail.less</mask>
+      <mask>*ail.less</mask>
+      <mask>*il.less</mask>
+      <mask>*l.less</mask>
+      <mask>*.less</mask>
+      <mask>.less</mask>
+      <mask>_.less</mask>
+      <mask>_e.less</mask>
+      <mask>_ex.less</mask>
+      <mask>_ext.less</mask>
+      <mask>_exte.less</mask>
+      <mask>_exten.less</mask>
+      <mask>_extend.less</mask>
     </recentFileMasks>
   </component>
 </application>
