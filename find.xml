@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="requirejs-config.js" />
     <recentFileMasks>
       <mask>requi*.js</mask>
       <mask>require*.js</mask>
