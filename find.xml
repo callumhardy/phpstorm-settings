@@ -3,38 +3,37 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="_extend.less" />
     <recentFileMasks>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
+      <mask>requi*.js</mask>
+      <mask>require*.js</mask>
+      <mask>require-c*.js</mask>
+      <mask>require-con*.js</mask>
+      <mask>require-conf*.js</mask>
+      <mask>require-confi*.js</mask>
+      <mask>require-config*.js</mask>
+      <mask>require-config.js</mask>
+      <mask>require-*.js</mask>
+      <mask>equire-*.js</mask>
+      <mask>quire-*.js</mask>
+      <mask>uire-*.js</mask>
+      <mask>ire-*.js</mask>
+      <mask>re-*.js</mask>
+      <mask>e-*.js</mask>
+      <mask>-*.js</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>e</mask>
-      <mask>em</mask>
-      <mask>emai</mask>
-      <mask>email</mask>
-      <mask>email.</mask>
-      <mask>email.l</mask>
-      <mask>email.le</mask>
-      <mask>email.les</mask>
-      <mask>_email.less</mask>
-      <mask>email.less</mask>
-      <mask>*email.less</mask>
-      <mask>*mail.less</mask>
-      <mask>*ail.less</mask>
-      <mask>*il.less</mask>
-      <mask>*l.less</mask>
-      <mask>*.less</mask>
-      <mask>.less</mask>
-      <mask>_.less</mask>
-      <mask>_e.less</mask>
-      <mask>_ex.less</mask>
-      <mask>_ext.less</mask>
-      <mask>_exte.less</mask>
-      <mask>_exten.less</mask>
-      <mask>_extend.less</mask>
+      <mask>.js</mask>
+      <mask>re.js</mask>
+      <mask>req.js</mask>
+      <mask>requ.js</mask>
+      <mask>requi.js</mask>
+      <mask>requirej.js</mask>
+      <mask>requirejs.js</mask>
+      <mask>requirejs-.js</mask>
+      <mask>requirejs-c.js</mask>
+      <mask>requirejs-con.js</mask>
+      <mask>requirejs-conf.js</mask>
+      <mask>requirejs-confi.js</mask>
+      <mask>requirejs-config.js</mask>
     </recentFileMasks>
   </component>
 </application>
