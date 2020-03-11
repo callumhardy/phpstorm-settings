@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="requirejs-config.js" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>re.js</mask>
       <mask>req.js</mask>
       <mask>requ.js</mask>
       <mask>requi.js</mask>
@@ -18,7 +17,6 @@
       <mask>requirejs-con.js</mask>
       <mask>requirejs-conf.js</mask>
       <mask>requirejs-confi.js</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
@@ -37,6 +35,8 @@
       <mask>requirejs-config.*.js</mask>
       <mask>requirejs-config..js</mask>
       <mask>requirejs-config.js</mask>
+      <mask>*</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
