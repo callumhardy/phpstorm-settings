@@ -1,17 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>requi*.js</mask>
-      <mask>require*.js</mask>
-      <mask>require-c*.js</mask>
-      <mask>require-con*.js</mask>
-      <mask>require-conf*.js</mask>
-      <mask>require-confi*.js</mask>
       <mask>require-config*.js</mask>
       <mask>require-config.js</mask>
       <mask>require-*.js</mask>
@@ -36,6 +28,12 @@
       <mask>requirejs-conf.js</mask>
       <mask>requirejs-confi.js</mask>
       <mask>requirejs-config.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
