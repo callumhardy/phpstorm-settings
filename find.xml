@@ -6,16 +6,12 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>requ.js</mask>
-      <mask>requi.js</mask>
-      <mask>requirej.js</mask>
       <mask>requirejs.js</mask>
       <mask>requirejs-.js</mask>
       <mask>requirejs-c.js</mask>
       <mask>requirejs-con.js</mask>
       <mask>requirejs-conf.js</mask>
       <mask>requirejs-confi.js</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -33,9 +29,13 @@
       <mask>requirejs-config..js</mask>
       <mask>requirejs-config.js</mask>
       <mask>*</mask>
-      <mask>*.less</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
