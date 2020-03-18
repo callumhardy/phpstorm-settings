@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>requirejs-.js</mask>
-      <mask>requirejs-c.js</mask>
-      <mask>requirejs-con.js</mask>
-      <mask>requirejs-conf.js</mask>
-      <mask>requirejs-confi.js</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -27,13 +23,18 @@
       <mask>requirejs-config.js</mask>
       <mask>*</mask>
       <mask>*.l</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.</mask>
-      <mask>*.xml</mask>
+      <mask>*.c</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
