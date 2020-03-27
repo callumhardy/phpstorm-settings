@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="customer_account.xml" />
     <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>require*.js</mask>
-      <mask>requirej*.js</mask>
-      <mask>requirejs*.js</mask>
-      <mask>requirejs-*.js</mask>
-      <mask>requirejs-c*.js</mask>
-      <mask>requirejs-con*.js</mask>
-      <mask>requirejs-conf*.js</mask>
       <mask>requirejs-confi*.js</mask>
       <mask>requirejs-config*.js</mask>
       <mask>requirejs-config.*.js</mask>
@@ -23,9 +13,7 @@
       <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
@@ -34,6 +22,19 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>c.xml</mask>
+      <mask>cus.xml</mask>
+      <mask>cust.xml</mask>
+      <mask>customer.xml</mask>
+      <mask>customer_.xml</mask>
+      <mask>customer_a.xml</mask>
+      <mask>customer_ac.xml</mask>
+      <mask>customer_acc.xml</mask>
+      <mask>customer_accou.xml</mask>
+      <mask>customer_accoun.xml</mask>
+      <mask>customer_account.xml</mask>
     </recentFileMasks>
   </component>
 </application>
