@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="customer_account.xml" />
     <recentFileMasks>
       <mask>requirejs-confi*.js</mask>
       <mask>requirejs-config*.js</mask>
