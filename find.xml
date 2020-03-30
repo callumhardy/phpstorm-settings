@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="de_DE.*" />
     <recentFileMasks>
-      <mask>requirejs-confi*.js</mask>
-      <mask>requirejs-config*.js</mask>
-      <mask>requirejs-config.*.js</mask>
-      <mask>requirejs-config..js</mask>
-      <mask>requirejs-config.js</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.xm</mask>
       <mask>*.</mask>
@@ -34,6 +28,13 @@
       <mask>customer_accoun.xml</mask>
       <mask>customer_account.xml</mask>
       <mask>*.xml</mask>
+      <mask>d</mask>
+      <mask>de</mask>
+      <mask>de_</mask>
+      <mask>de_D</mask>
+      <mask>de_DE</mask>
+      <mask>de_DE.</mask>
+      <mask>de_DE.*</mask>
     </recentFileMasks>
   </component>
 </application>
