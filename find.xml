@@ -4,10 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.xm</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.l</mask>
@@ -34,6 +30,10 @@
       <mask>de_DE</mask>
       <mask>de_DE.</mask>
       <mask>de_DE.*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
