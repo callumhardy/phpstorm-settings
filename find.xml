@@ -3,14 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.x</mask>
       <mask>c.xml</mask>
       <mask>cus.xml</mask>
       <mask>cust.xml</mask>
@@ -22,7 +21,6 @@
       <mask>customer_accou.xml</mask>
       <mask>customer_accoun.xml</mask>
       <mask>customer_account.xml</mask>
-      <mask>*.xml</mask>
       <mask>d</mask>
       <mask>de</mask>
       <mask>de_</mask>
@@ -31,9 +29,12 @@
       <mask>de_DE.</mask>
       <mask>de_DE.*</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
