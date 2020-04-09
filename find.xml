@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>c.xml</mask>
@@ -29,12 +28,13 @@
       <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
+      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
+      <mask>*.ph</mask>
       <mask>*.php</mask>
-      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
