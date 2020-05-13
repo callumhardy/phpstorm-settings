@@ -7,7 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.x*.xmlml</mask>
       <mask>*.x*.xmlm</mask>
       <mask>*.x*.xml</mask>
@@ -36,6 +35,7 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.phtml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
