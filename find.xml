@@ -7,25 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.x*.xmlml</mask>
-      <mask>*.x*.xmlm</mask>
-      <mask>*.x*.xml</mask>
-      <mask>*.x*.xm</mask>
-      <mask>*.x*.x</mask>
-      <mask>*.x*.</mask>
-      <mask>*.x*</mask>
-      <mask>*.caa</mask>
-      <mask>*.ca</mask>
-      <mask>*.c</mask>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
       <mask>*.p</mask>
@@ -36,6 +17,25 @@
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
+      <mask>re</mask>
+      <mask>req</mask>
+      <mask>requ</mask>
+      <mask>requi</mask>
+      <mask>require-</mask>
+      <mask>require</mask>
+      <mask>require.</mask>
+      <mask>require.j</mask>
+      <mask>*require.js</mask>
+      <mask>require.js</mask>
+      <mask>requirej.js</mask>
+      <mask>requirejs.js</mask>
+      <mask>requirejs-.js</mask>
+      <mask>requirejs-c.js</mask>
+      <mask>requirejs-con.js</mask>
+      <mask>requirejs-conf.js</mask>
+      <mask>requirejs-confi.js</mask>
+      <mask>requirejs-config.js</mask>
+      <mask>.js</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
