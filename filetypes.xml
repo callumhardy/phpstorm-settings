@@ -5,8 +5,8 @@
       <mapping pattern=".gitignore*" type="Bash" />
       <mapping pattern=".gitignore" type="Bash" />
       <removed_mapping pattern=".gitignore" type="Git file" />
-      <mapping ext="concrete" type="JSON" />
       <mapping ext="lock" type="JSON" />
+      <mapping ext="concrete" type="JSON" />
       <mapping pattern="deployer" type="PHP" />
       <mapping pattern="SAA_CustomerY-testxml" type="PLAIN_TEXT" />
       <mapping pattern="satisfiable" type="PLAIN_TEXT" />
@@ -18,24 +18,25 @@
       <mapping pattern=".gitignore.dist.development" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.swp" type="PLAIN_TEXT" />
       <mapping pattern="vhost" type="PLAIN_TEXT" />
-      <mapping ext="live" type="PLAIN_TEXT" />
-      <mapping ext="pan" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="pan" type="PLAIN_TEXT" />
+      <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="css-back" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="live" type="PLAIN_TEXT" />
+      <mapping ext="huber" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
+      <mapping ext="patches" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="patches" type="PLAIN_TEXT" />
-      <mapping ext="vcl" type="PLAIN_TEXT" />
-      <mapping ext="old" type="PLAIN_TEXT" />
-      <mapping ext="cache" type="PLAIN_TEXT" />
-      <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="production" type="PLAIN_TEXT" />
-      <mapping ext="development" type="PLAIN_TEXT" />
-      <mapping ext="css-back" type="PLAIN_TEXT" />
-      <mapping ext="huber" type="PLAIN_TEXT" />
-      <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
