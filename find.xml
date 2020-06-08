@@ -1,41 +1,43 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>requ</mask>
-      <mask>requi</mask>
-      <mask>require-</mask>
-      <mask>require</mask>
-      <mask>require.</mask>
-      <mask>require.j</mask>
-      <mask>*require.js</mask>
-      <mask>requirej.js</mask>
-      <mask>requirejs.js</mask>
-      <mask>requirejs-.js</mask>
-      <mask>requirejs-c.js</mask>
-      <mask>requirejs-con.js</mask>
-      <mask>requirejs-conf.js</mask>
-      <mask>requirejs-confi.js</mask>
-      <mask>requirejs-config.js</mask>
-      <mask>.js</mask>
-      <mask>re.js</mask>
-      <mask>req.js</mask>
-      <mask>requ.js</mask>
-      <mask>require.js</mask>
       <mask>require*.js</mask>
       <mask>*.sh</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.phtml</mask>
+      <mask>!*.phtml</mask>
+      <mask>!*.phtm</mask>
+      <mask>!*.pht</mask>
+      <mask>!*.ph</mask>
+      <mask>!*.p</mask>
+      <mask>!*.</mask>
+      <mask>!*.c</mask>
+      <mask>!*.cs</mask>
+      <mask>!*.css</mask>
+      <mask>!*.css,</mask>
+      <mask>!*.css,!</mask>
+      <mask>!*.css,!*</mask>
+      <mask>!*.css,!*.</mask>
+      <mask>!*.css,!*.le</mask>
+      <mask>!*.css,!*.less</mask>
     </recentFileMasks>
   </component>
 </application>
