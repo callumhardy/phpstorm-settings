@@ -5,17 +5,10 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>require*.js</mask>
-      <mask>*.sh</mask>
-      <mask>*.s</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>*.p</mask>
@@ -26,8 +19,6 @@
       <mask>!*.pht</mask>
       <mask>!*.ph</mask>
       <mask>!*.p</mask>
-      <mask>!*.</mask>
-      <mask>!*.c</mask>
       <mask>!*.cs</mask>
       <mask>!*.css</mask>
       <mask>!*.css,</mask>
@@ -36,6 +27,16 @@
       <mask>!*.css,!*.</mask>
       <mask>!*.css,!*.le</mask>
       <mask>!*.css,!*.less</mask>
+      <mask>!*.c</mask>
+      <mask>!*.</mask>
+      <mask>!*</mask>
+      <mask>!</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
