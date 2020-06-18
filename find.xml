@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>!*.ph</mask>
       <mask>!*.p</mask>
@@ -17,9 +18,7 @@
       <mask>!*.css,!*.le</mask>
       <mask>!*.css,!*.less</mask>
       <mask>!*.c</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
@@ -36,6 +35,8 @@
       <mask>!*.sql,!*.html</mask>
       <mask>*</mask>
       <mask>*.php</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
