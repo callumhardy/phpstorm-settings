@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>!*.css,!*.</mask>
       <mask>!*.css,!*.le</mask>
@@ -34,11 +34,11 @@
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
