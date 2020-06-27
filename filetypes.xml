@@ -41,6 +41,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="x" type="PLAIN_TEXT" />
       <mapping ext="css-back" type="PLAIN_TEXT" />
+      <mapping ext="min" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="conf" type="YAML" />
     </extensionMap>
