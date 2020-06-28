@@ -28,6 +28,7 @@
       <mapping ext="flag" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="vars" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="live" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
