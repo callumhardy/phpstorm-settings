@@ -5,16 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="crontab.xml" />
     <recentFileMasks>
-      <mask>!*.css,!*.</mask>
-      <mask>!*.css,!*.le</mask>
-      <mask>!*.css,!*.less</mask>
-      <mask>!*.c</mask>
-      <mask>!</mask>
-      <mask>!*</mask>
-      <mask>!*.</mask>
-      <mask>!*.sql</mask>
-      <mask>!*.sql,</mask>
       <mask>!*.sql,!*</mask>
       <mask>!*.sql,!*.</mask>
       <mask>!*.sql,!*.htm</mask>
@@ -25,9 +17,7 @@
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
@@ -36,6 +26,17 @@
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>c</mask>
+      <mask>cr</mask>
+      <mask>cron</mask>
+      <mask>cront</mask>
+      <mask>cronta</mask>
+      <mask>crontab</mask>
+      <mask>crontab.</mask>
+      <mask>crontab.x</mask>
+      <mask>crontab.xml</mask>
     </recentFileMasks>
   </component>
 </application>
