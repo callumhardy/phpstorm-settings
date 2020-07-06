@@ -7,20 +7,14 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.phtm</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.l</mask>
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>c</mask>
       <mask>cr</mask>
@@ -38,6 +32,13 @@
       <mask>cron.xml</mask>
       <mask>cron*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
