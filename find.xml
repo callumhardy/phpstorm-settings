@@ -5,21 +5,15 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="crontab.xml" />
     <recentFileMasks>
-      <mask>*.phtm</mask>
       <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
       <mask>*</mask>
-      <mask>c</mask>
-      <mask>cr</mask>
-      <mask>cron</mask>
-      <mask>cront</mask>
       <mask>cronta</mask>
-      <mask>crontab</mask>
       <mask>crontab.</mask>
       <mask>crontab.x</mask>
-      <mask>crontab.xml</mask>
       <mask>cronta.xml</mask>
       <mask>cront.xml</mask>
       <mask>cron_*.xml</mask>
@@ -36,6 +30,13 @@
       <mask>*.less</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>c</mask>
+      <mask>cr</mask>
+      <mask>cron</mask>
+      <mask>cront</mask>
+      <mask>crontab</mask>
+      <mask>crontab</mask>
+      <mask>crontab.xml</mask>
     </recentFileMasks>
   </component>
 </application>
