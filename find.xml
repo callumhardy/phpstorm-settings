@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="crontab.xml" />
+    <option name="FILE_MASK" value="cron*.xml" />
     <recentFileMasks>
       <mask>*.ph</mask>
       <mask>*.pht</mask>
@@ -15,11 +15,9 @@
       <mask>crontab.</mask>
       <mask>crontab.x</mask>
       <mask>cronta.xml</mask>
-      <mask>cront.xml</mask>
       <mask>cron_*.xml</mask>
       <mask>cron_.xml</mask>
       <mask>cron.xml</mask>
-      <mask>cron*.xml</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
@@ -37,6 +35,8 @@
       <mask>crontab</mask>
       <mask>crontab</mask>
       <mask>crontab.xml</mask>
+      <mask>cront.xml</mask>
+      <mask>cron*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
