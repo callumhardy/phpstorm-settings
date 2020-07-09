@@ -2298,7 +2298,7 @@
             <configuration_option name="mbstring.language" value="neutral" />
             <configuration_option name="mbstring.strict_detection" value="0" />
             <configuration_option name="mbstring.substitute_character" value="" />
-            <configuration_option name="memory_limit" value="512M" />
+            <configuration_option name="memory_limit" value="2048M" />
             <configuration_option name="mysqli.allow_local_infile" value="0" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
@@ -2394,7 +2394,7 @@
             <configuration_option name="report_zend_debug" value="0" />
             <configuration_option name="request_order" value="GP" />
             <configuration_option name="sendmail_from" value="callum.hardy@absolute-design.co.uk" />
-            <configuration_option name="sendmail_path" value="/usr/local/Cellar/mailhog/1.0.0/bin/MailHog" />
+            <configuration_option name="sendmail_path" value="/usr/local/Cellar/mailhog/1.0.0/bin/MailHog sendmail local@absolute-design.co.uk" />
             <configuration_option name="serialize_precision" value="-1" />
             <configuration_option name="session.auto_start" value="0" />
             <configuration_option name="session.cache_expire" value="180" />
@@ -2458,7 +2458,7 @@
             <configuration_option name="xdebug.collect_return" value="0" />
             <configuration_option name="xdebug.collect_vars" value="0" />
             <configuration_option name="xdebug.coverage_enable" value="1" />
-            <configuration_option name="xdebug.default_enable" value="1" />
+            <configuration_option name="xdebug.default_enable" value="0" />
             <configuration_option name="xdebug.dump.COOKIE" value="" />
             <configuration_option name="xdebug.dump.ENV" value="" />
             <configuration_option name="xdebug.dump.FILES" value="" />
@@ -2489,8 +2489,8 @@
             <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="1" />
-            <configuration_option name="xdebug.remote_connect_back" value="1" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
+            <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
             <configuration_option name="xdebug.remote_host" value="localhost" />
