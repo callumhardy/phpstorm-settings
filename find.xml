@@ -8,8 +8,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>crontab.x</mask>
-      <mask>cronta.xml</mask>
       <mask>cron_*.xml</mask>
       <mask>cron_.xml</mask>
       <mask>cron.xml</mask>
@@ -38,6 +36,8 @@
       <mask>m*.xml</mask>
       <mask>mo*.xml</mask>
       <mask>mod*.xml</mask>
+      <mask>*</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
