@@ -1694,7 +1694,7 @@
             <configuration_option name="xdebug.collect_return" value="0" />
             <configuration_option name="xdebug.collect_vars" value="0" />
             <configuration_option name="xdebug.coverage_enable" value="1" />
-            <configuration_option name="xdebug.default_enable" value="1" />
+            <configuration_option name="xdebug.default_enable" value="0" />
             <configuration_option name="xdebug.dump.COOKIE" value="" />
             <configuration_option name="xdebug.dump.ENV" value="" />
             <configuration_option name="xdebug.dump.FILES" value="" />
