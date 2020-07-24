@@ -8,7 +8,6 @@
       <mapping ext="lock" type="JSON" />
       <mapping ext="concrete" type="JSON" />
       <mapping pattern="deployer" type="PHP" />
-      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dist.development" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dist.production" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.dist.development" type="PLAIN_TEXT" />
