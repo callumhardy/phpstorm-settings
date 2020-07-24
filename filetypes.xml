@@ -1,21 +1,24 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.gitignore*" type="Bash" />
+      <mapping pattern=".gitignore*" type="Bash" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="lock" type="JSON" />
       <mapping ext="concrete" type="JSON" />
       <mapping pattern="deployer" type="PHP" />
-      <mapping pattern="vhost" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dist.development" type="PLAIN_TEXT" />
-      <mapping pattern="satisfiable" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore.swp" type="PLAIN_TEXT" />
-      <mapping pattern="test.php" type="PLAIN_TEXT" />
-      <mapping pattern="SAA_CustomerY-testxml" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore.dist.production" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore.dist.development" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.dist.production" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore.dist.development" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore.dist.production" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="SAA_CustomerY-testxml" type="PLAIN_TEXT" />
+      <mapping pattern="vhost" type="PLAIN_TEXT" />
+      <mapping pattern="test.php" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore.swp" type="PLAIN_TEXT" />
+      <mapping pattern="satisfiable" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="pan" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
@@ -27,6 +30,8 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="broken" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="patches" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
@@ -36,16 +41,12 @@
       <mapping ext="cache" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="x" type="PLAIN_TEXT" />
-      <mapping ext="patches" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="conf" type="YAML" />
-      <removed_mapping pattern=".gitignore" type="Git file" />
+      <removed_mapping pattern=".gitignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
-      <mapping pattern="*.gitignore*" type="Bash" />
-      <mapping pattern=".gitignore*" type="Bash" />
     </extensionMap>
   </component>
 </application>
