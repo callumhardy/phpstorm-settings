@@ -5,16 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="widget.xml" />
     <recentFileMasks>
-      <mask>cron.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>c</mask>
-      <mask>cr</mask>
-      <mask>cron</mask>
-      <mask>cront</mask>
       <mask>crontab</mask>
       <mask>crontab</mask>
       <mask>crontab.xml</mask>
@@ -29,13 +21,22 @@
       <mask>mod*.xml</mask>
       <mask>*</mask>
       <mask>*.phtml</mask>
-      <mask>*.</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>w</mask>
+      <mask>wi</mask>
+      <mask>wid</mask>
+      <mask>widg</mask>
+      <mask>widget</mask>
+      <mask>widget.</mask>
+      <mask>widget.x</mask>
+      <mask>widget.xm</mask>
+      <mask>widget.xml</mask>
     </recentFileMasks>
   </component>
 </application>
