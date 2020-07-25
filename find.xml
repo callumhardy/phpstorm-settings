@@ -1,41 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>crontab</mask>
-      <mask>crontab</mask>
-      <mask>crontab.xml</mask>
-      <mask>cront.xml</mask>
-      <mask>cron*.xml</mask>
-      <mask>reg*.xml</mask>
-      <mask>re*.xml</mask>
-      <mask>r*.xml</mask>
-      <mask>*.xml</mask>
-      <mask>m*.xml</mask>
-      <mask>mo*.xml</mask>
-      <mask>mod*.xml</mask>
-      <mask>*</mask>
-      <mask>*.phtml</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>w</mask>
-      <mask>wi</mask>
-      <mask>wid</mask>
-      <mask>widg</mask>
-      <mask>widget</mask>
-      <mask>widget.</mask>
-      <mask>widget.x</mask>
-      <mask>widget.xm</mask>
-      <mask>widget.xml</mask>
-    </recentFileMasks>
   </component>
 </application>
