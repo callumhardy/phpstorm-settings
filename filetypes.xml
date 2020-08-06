@@ -21,6 +21,7 @@
       <mapping pattern="satisfiable" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="pan" type="PLAIN_TEXT" />
+      <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
       <mapping ext="works" type="PLAIN_TEXT" />
@@ -33,6 +34,7 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="patches" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="openvpn" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="vars" type="PLAIN_TEXT" />
