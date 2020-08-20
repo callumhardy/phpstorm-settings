@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.gitignore*" type="Bash" />
-      <mapping pattern=".gitignore*" type="Bash" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="ignore" type="Git exclude file" />
@@ -49,6 +47,8 @@
       <mapping ext="conf" type="YAML" />
       <removed_mapping pattern=".gitignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <mapping pattern="*.gitignore*" type="Bash" />
+      <mapping pattern=".gitignore*" type="Bash" />
     </extensionMap>
   </component>
 </application>
