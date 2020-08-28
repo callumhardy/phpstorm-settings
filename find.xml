@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.css</mask>
     <mask>*.inc</mask>
     <mask>*.ctp</mask>
@@ -18,8 +19,8 @@
     <mask>!*.less</mask>
     <mask>*.js</mask>
     <mask>*a.php</mask>
-    <mask>*.less</mask>
     <mask>*.xml</mask>
     <mask>system.xml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
