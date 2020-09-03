@@ -21,5 +21,6 @@
     <mask>system.xml</mask>
     <mask>*.xml</mask>
     <mask>*.less</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
