@@ -29,6 +29,7 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="broken" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="changed" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="patches" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
