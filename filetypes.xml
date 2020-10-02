@@ -19,7 +19,6 @@
       <mapping pattern="satisfiable" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="pan" type="PLAIN_TEXT" />
-      <mapping ext="params" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
@@ -41,6 +40,7 @@
       <mapping ext="live" type="PLAIN_TEXT" />
       <mapping ext="huber" type="PLAIN_TEXT" />
       <mapping ext="cache" type="PLAIN_TEXT" />
+      <mapping ext="params" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="x" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
