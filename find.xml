@@ -25,8 +25,8 @@
     <mask>*.less</mask>
     <mask>*.scss</mask>
     <mask>catalog_product*.xml</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
     <mask>*.xml</mask>
   </component>
 </application>
