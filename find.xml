@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.css</mask>
     <mask>*.inc</mask>
     <mask>*.ctp</mask>
@@ -20,12 +21,12 @@
     <mask>*a.php</mask>
     <mask>system.xml</mask>
     <mask>catalog_product*.xml</mask>
-    <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.xml</mask>
     <mask>*se*.xml</mask>
     <mask>*.php</mask>
     <mask>prod*.xml</mask>
+    <mask>*.js</mask>
     <mask>*.less</mask>
   </component>
 </application>
