@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*.css</mask>
     <mask>*.inc</mask>
     <mask>*.ctp</mask>
@@ -15,7 +15,6 @@
     <mask>*.php5</mask>
     <mask>*.hphp</mask>
     <mask>*.module</mask>
-    <mask>*.phtml</mask>
     <mask>*.html</mask>
     <mask>!*.less</mask>
     <mask>*a.php</mask>
@@ -28,5 +27,6 @@
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>*.xml</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
