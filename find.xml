@@ -23,9 +23,9 @@
     <mask>*.phtml</mask>
     <mask>!*.css</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
     <mask>!*Test.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
