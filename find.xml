@@ -33,7 +33,7 @@
     <mask>*ing.xml</mask>
     <mask>menu.xml</mask>
     <mask>di.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
