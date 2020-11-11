@@ -14,7 +14,6 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.html</mask>
-    <mask>!*.less</mask>
     <mask>*a.php</mask>
     <mask>catalog_product*.xml</mask>
     <mask>*.scss</mask>
@@ -37,5 +36,6 @@
     <mask>*te.xml</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>!*.less</mask>
   </component>
 </application>
