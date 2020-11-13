@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.ctp</mask>
+    <option name="FILE_MASK" value="cron_groups.xml" />
     <mask>*.php4</mask>
     <mask>*.php5</mask>
     <mask>*.hphp</mask>
@@ -35,5 +35,6 @@
     <mask>*.xml</mask>
     <mask>!*.less</mask>
     <mask>routes.xml</mask>
+    <mask>cron_groups.xml</mask>
   </component>
 </application>
