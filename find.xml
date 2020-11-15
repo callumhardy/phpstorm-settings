@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.php4</mask>
+    <option name="FILE_MASK" value="*index.xml" />
     <mask>*.php5</mask>
     <mask>*.hphp</mask>
     <mask>*.module</mask>
@@ -35,5 +35,6 @@
     <mask>!*.less</mask>
     <mask>routes.xml</mask>
     <mask>cron_groups.xml</mask>
+    <mask>*index.xml</mask>
   </component>
 </application>
