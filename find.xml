@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.module</mask>
     <mask>*.html</mask>
     <mask>*a.php</mask>
@@ -33,9 +34,9 @@
     <mask>!*.less</mask>
     <mask>routes.xml</mask>
     <mask>*index.xml</mask>
-    <mask>*.xml</mask>
     <mask>cron_groups.xml</mask>
     <mask>crontab.xml</mask>
     <mask>cron*s.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
