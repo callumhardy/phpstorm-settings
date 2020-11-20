@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*cron*.xml" />
     <mask>*a.php</mask>
     <mask>catalog_product*.xml</mask>
     <mask>*se*.xml</mask>
@@ -37,5 +37,6 @@
     <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>!*Test*</mask>
+    <mask>*cron*.xml</mask>
   </component>
 </application>
