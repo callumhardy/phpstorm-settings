@@ -7,11 +7,11 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.module</mask>
     <mask>*.html</mask>
     <mask>*a.php</mask>
     <mask>catalog_product*.xml</mask>
-    <mask>*.scss</mask>
     <mask>*se*.xml</mask>
     <mask>prod*.xml</mask>
     <mask>*.phtml</mask>
@@ -37,5 +37,6 @@
     <mask>crontab.xml</mask>
     <mask>cron*s.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
