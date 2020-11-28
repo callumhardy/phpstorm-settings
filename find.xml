@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="routes.xml" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.phtml</mask>
     <mask>!*.css</mask>
     <mask>!*Test.php</mask>
@@ -31,12 +31,12 @@
     <mask>*.scss</mask>
     <mask>!*Test*</mask>
     <mask>*cron*.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>checkout_cart_inde*.xml</mask>
     <mask>!*.js</mask>
     <mask>*system.xml</mask>
-    <mask>*.php</mask>
     <mask>routes.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
