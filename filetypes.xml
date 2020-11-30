@@ -22,6 +22,7 @@
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
+      <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="2020-11-13" type="PLAIN_TEXT" />
       <mapping ext="works" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
