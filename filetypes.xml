@@ -17,12 +17,10 @@
       <mapping pattern="test.php" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.swp" type="PLAIN_TEXT" />
       <mapping pattern="satisfiable" type="PLAIN_TEXT" />
-      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="pan" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
-      <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="2020-11-13" type="PLAIN_TEXT" />
       <mapping ext="works" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
@@ -46,7 +44,9 @@
       <mapping ext="params" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="x" type="PLAIN_TEXT" />
+      <mapping ext="temp" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
       <mapping ext="conf" type="YAML" />
