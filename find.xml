@@ -35,7 +35,7 @@
     <mask>routes.xml</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
-    <mask>*.xml</mask>
     <mask>*.less</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
