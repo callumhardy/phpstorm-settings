@@ -17,6 +17,7 @@
       <mapping pattern="test.php" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.swp" type="PLAIN_TEXT" />
       <mapping pattern="satisfiable" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="pan" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
