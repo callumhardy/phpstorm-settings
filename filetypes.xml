@@ -19,6 +19,8 @@
       <mapping pattern="satisfiable" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="pan" type="PLAIN_TEXT" />
+      <mapping ext="cat-mapping-2020-12-14_2" type="PLAIN_TEXT" />
+      <mapping ext="cat-mapping-2020-12-14_1" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
       <mapping ext="flag" type="PLAIN_TEXT" />
