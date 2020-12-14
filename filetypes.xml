@@ -34,6 +34,7 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="patches" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="errors" type="PLAIN_TEXT" />
       <mapping ext="openvpn" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
