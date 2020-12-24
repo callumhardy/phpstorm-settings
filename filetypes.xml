@@ -32,6 +32,7 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="broken" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="error-2020-12-24" type="PLAIN_TEXT" />
       <mapping ext="changed" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="patches" type="PLAIN_TEXT" />
