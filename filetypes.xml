@@ -50,6 +50,7 @@
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="x" type="PLAIN_TEXT" />
       <mapping ext="temp" type="PLAIN_TEXT" />
+      <mapping ext="error-2020-12-24_2" type="PLAIN_TEXT" />
       <mapping ext="2020-12-12" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
