@@ -41,6 +41,7 @@
       <mapping ext="openvpn" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
+      <mapping ext="error-2020-12-24_4" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="vars" type="PLAIN_TEXT" />
       <mapping ext="live" type="PLAIN_TEXT" />
