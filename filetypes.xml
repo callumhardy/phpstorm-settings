@@ -30,6 +30,7 @@
       <mapping ext="min" type="PLAIN_TEXT" />
       <mapping ext="css-back" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="error-2020-12-24_5" type="PLAIN_TEXT" />
       <mapping ext="broken" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="error-2020-12-24" type="PLAIN_TEXT" />
