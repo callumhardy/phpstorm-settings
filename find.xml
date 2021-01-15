@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Test*" />
     <mask>*listing.xml</mask>
     <mask>default.xml</mask>
     <mask>*prices.xml</mask>
@@ -24,7 +25,6 @@
     <mask>crontab.xml</mask>
     <mask>cron*s.xml</mask>
     <mask>*.scss</mask>
-    <mask>!*Test*</mask>
     <mask>*cron*.xml</mask>
     <mask>*.html</mask>
     <mask>checkout_cart_inde*.xml</mask>
@@ -37,5 +37,6 @@
     <mask>web*.xml</mask>
     <mask>indexer.xml</mask>
     <mask>*.xml</mask>
+    <mask>!*Test*</mask>
   </component>
 </application>
