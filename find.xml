@@ -1,14 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test*" />
-    <mask>*listing.xml</mask>
+    <option name="FILE_MASK" value="*.ph*" />
     <mask>default.xml</mask>
     <mask>*prices.xml</mask>
     <mask>*ma.xml</mask>
@@ -38,5 +35,6 @@
     <mask>indexer.xml</mask>
     <mask>*.xml</mask>
     <mask>!*Test*</mask>
+    <mask>*.ph*</mask>
   </component>
 </application>
