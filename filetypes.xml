@@ -34,6 +34,7 @@
       <mapping ext="error-2020-12-24_4" type="PLAIN_TEXT" />
       <mapping ext="broken" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="2021-01-23" type="PLAIN_TEXT" />
       <mapping ext="error-2020-12-24" type="PLAIN_TEXT" />
       <mapping ext="changed" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
@@ -44,6 +45,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="error-2020-12-24_5" type="PLAIN_TEXT" />
+      <mapping ext="json-2021-01-23" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="vars" type="PLAIN_TEXT" />
       <mapping ext="live" type="PLAIN_TEXT" />
