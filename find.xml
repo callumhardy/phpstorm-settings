@@ -10,7 +10,6 @@
     <mask>system.xml</mask>
     <mask>*ing.xml</mask>
     <mask>menu.xml</mask>
-    <mask>*.js</mask>
     <mask>di.xml</mask>
     <mask>*te.xml</mask>
     <mask>!*.less</mask>
@@ -35,5 +34,6 @@
     <mask>*.less</mask>
     <mask>module</mask>
     <mask>module.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
