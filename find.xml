@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*ma.xml</mask>
     <mask>widget.xml</mask>
     <mask>system.xml</mask>
     <mask>*ing.xml</mask>
@@ -34,8 +33,9 @@
     <mask>module</mask>
     <mask>module.xml</mask>
     <mask>*.js</mask>
-    <mask>!*Test*</mask>
     <mask>*.ph*</mask>
     <mask>*.xml</mask>
+    <mask>!*Test*</mask>
+    <mask>*php</mask>
   </component>
 </application>
