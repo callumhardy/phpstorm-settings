@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>system.xml</mask>
+    <option name="FILE_MASK" value="edit.php" />
     <mask>*ing.xml</mask>
     <mask>menu.xml</mask>
     <mask>di.xml</mask>
@@ -37,5 +35,6 @@
     <mask>*.xml</mask>
     <mask>*php</mask>
     <mask>!*Test*</mask>
+    <mask>edit.php</mask>
   </component>
 </application>
