@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*ing.xml</mask>
     <mask>menu.xml</mask>
     <mask>di.xml</mask>
@@ -26,13 +25,13 @@
     <mask>*.less</mask>
     <mask>module</mask>
     <mask>module.xml</mask>
-    <mask>*.js</mask>
     <mask>*.ph*</mask>
     <mask>*php,!*Test*</mask>
-    <mask>*php</mask>
     <mask>!*Test*</mask>
     <mask>edit.php</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
+    <mask>*php</mask>
   </component>
 </application>
