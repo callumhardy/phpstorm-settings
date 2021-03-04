@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*ing.xml</mask>
     <mask>menu.xml</mask>
     <mask>di.xml</mask>
@@ -33,7 +34,7 @@
     <mask>edit.php</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
