@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*ing.xml</mask>
     <mask>menu.xml</mask>
     <mask>di.xml</mask>
@@ -23,7 +24,6 @@
     <mask>!*.js</mask>
     <mask>*system.xml</mask>
     <mask>routes.xml</mask>
-    <mask>*.phtml</mask>
     <mask>web*.xml</mask>
     <mask>indexer.xml</mask>
     <mask>module</mask>
@@ -32,10 +32,11 @@
     <mask>*php,!*Test*</mask>
     <mask>!*Test*</mask>
     <mask>edit.php</mask>
-    <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*php</mask>
     <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.phtml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
