@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*ing.xml</mask>
     <mask>menu.xml</mask>
     <mask>di.xml</mask>
@@ -34,8 +35,8 @@
     <mask>*.php</mask>
     <mask>*php</mask>
     <mask>*.js</mask>
-    <mask>*.less</mask>
     <mask>*.phtml</mask>
     <mask>*.xml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
