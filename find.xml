@@ -5,8 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*index.xml" />
-    <mask>*ing.xml</mask>
+    <option name="FILE_MASK" value="!*Test*" />
     <mask>menu.xml</mask>
     <mask>di.xml</mask>
     <mask>*te.xml</mask>
@@ -27,7 +26,6 @@
     <mask>module.xml</mask>
     <mask>*.ph*</mask>
     <mask>*php,!*Test*</mask>
-    <mask>!*Test*</mask>
     <mask>edit.php</mask>
     <mask>*.php</mask>
     <mask>*php</mask>
@@ -36,5 +34,7 @@
     <mask>*.less</mask>
     <mask>*.xml</mask>
     <mask>*index.xml</mask>
+    <mask>*types.xml</mask>
+    <mask>!*Test*</mask>
   </component>
 </application>
