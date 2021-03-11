@@ -62,6 +62,7 @@
       <mapping ext="error-2020-12-24_2" type="PLAIN_TEXT" />
       <mapping ext="2020-12-12" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
