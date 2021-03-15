@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>di.xml</mask>
     <mask>*te.xml</mask>
     <mask>!*.less</mask>
@@ -26,7 +27,6 @@
     <mask>edit.php</mask>
     <mask>*php</mask>
     <mask>*.phtml</mask>
-    <mask>*.less</mask>
     <mask>*types.xml</mask>
     <mask>*tes.xml</mask>
     <mask>*.html</mask>
@@ -35,5 +35,6 @@
     <mask>!*Test*</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.less</mask>
   </component>
 </application>
