@@ -33,7 +33,7 @@
     <mask>*.php</mask>
     <mask>!*Test*</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>*.less</mask>
+    <mask>*.js</mask>
   </component>
 </application>
