@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test*" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>di.xml</mask>
     <mask>*te.xml</mask>
     <mask>!*.less</mask>
@@ -30,9 +30,9 @@
     <mask>*.html</mask>
     <mask>*index.xml</mask>
     <mask>*.php</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>!*Test*</mask>
+    <mask>*.less</mask>
   </component>
 </application>
