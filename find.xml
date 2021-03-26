@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>di.xml</mask>
     <mask>*te.xml</mask>
@@ -30,10 +28,10 @@
     <mask>*tes.xml</mask>
     <mask>*.html</mask>
     <mask>*index.xml</mask>
-    <mask>*.php</mask>
     <mask>!*Test*</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
