@@ -13,7 +13,6 @@
     <mask>checkout_cart_inde*.xml</mask>
     <mask>!*.js</mask>
     <mask>*system.xml</mask>
-    <mask>routes.xml</mask>
     <mask>web*.xml</mask>
     <mask>indexer.xml</mask>
     <mask>module</mask>
@@ -33,5 +32,6 @@
     <mask>*.php</mask>
     <mask>composer.json</mask>
     <mask>*.less</mask>
+    <mask>routes.xml</mask>
   </component>
 </application>
