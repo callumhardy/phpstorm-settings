@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test*" />
-    <mask>*te.xml</mask>
+    <option name="FILE_MASK" value="product_types.xml" />
     <mask>!*.less</mask>
     <mask>cron_groups.xml</mask>
     <mask>crontab.xml</mask>
@@ -34,5 +33,6 @@
     <mask>*.less</mask>
     <mask>routes.xml</mask>
     <mask>!*Test*</mask>
+    <mask>product_types.xml</mask>
   </component>
 </application>
