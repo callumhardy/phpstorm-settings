@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="crontab.xml" />
-    <mask>!*.less</mask>
     <mask>cron_groups.xml</mask>
     <mask>cron*s.xml</mask>
     <mask>*.scss</mask>
@@ -34,5 +32,6 @@
     <mask>!*Test*</mask>
     <mask>product_types.xml</mask>
     <mask>crontab.xml</mask>
+    <mask>events.xml</mask>
   </component>
 </application>
