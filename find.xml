@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Test*" />
     <mask>cron_groups.xml</mask>
     <mask>cron*s.xml</mask>
     <mask>*.scss</mask>
@@ -30,10 +31,10 @@
     <mask>*.php</mask>
     <mask>composer.json</mask>
     <mask>routes.xml</mask>
-    <mask>!*Test*</mask>
     <mask>product_types.xml</mask>
     <mask>crontab.xml</mask>
     <mask>events.xml</mask>
     <mask>*.less</mask>
+    <mask>!*Test*</mask>
   </component>
 </application>
