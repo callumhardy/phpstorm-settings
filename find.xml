@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>cron_groups.xml</mask>
+    <option name="FILE_MASK" value=".git*" />
     <mask>cron*s.xml</mask>
     <mask>*.scss</mask>
     <mask>*cron*.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*.less</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
+    <mask>.git*</mask>
   </component>
 </application>
