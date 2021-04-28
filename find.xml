@@ -20,7 +20,6 @@
     <mask>*php</mask>
     <mask>*types.xml</mask>
     <mask>*tes.xml</mask>
-    <mask>*.html</mask>
     <mask>*index.xml</mask>
     <mask>*.php</mask>
     <mask>composer.json</mask>
@@ -33,5 +32,6 @@
     <mask>!*Test*</mask>
     <mask>*.less</mask>
     <mask>*.xml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
