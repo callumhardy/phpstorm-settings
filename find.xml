@@ -5,9 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>cron*s.xml</mask>
-    <mask>*.scss</mask>
     <mask>*cron*.xml</mask>
     <mask>checkout_cart_inde*.xml</mask>
     <mask>!*.js</mask>
@@ -36,5 +35,6 @@
     <mask>*.html</mask>
     <mask>.git*</mask>
     <mask>*.less</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
