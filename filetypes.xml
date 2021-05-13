@@ -48,6 +48,7 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="original" type="PLAIN_TEXT" />
       <mapping ext="error-2020-12-24_5" type="PLAIN_TEXT" />
+      <mapping ext="redirects" type="PLAIN_TEXT" />
       <mapping ext="json-2021-01-23" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="vars" type="PLAIN_TEXT" />
