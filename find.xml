@@ -24,7 +24,6 @@
     <mask>product_types.xml</mask>
     <mask>crontab.xml</mask>
     <mask>events.xml</mask>
-    <mask>*.js</mask>
     <mask>*.phtml</mask>
     <mask>.git*</mask>
     <mask>*.scss</mask>
@@ -33,5 +32,6 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>!*Test*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
