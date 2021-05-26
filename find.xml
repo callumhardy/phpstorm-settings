@@ -7,8 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
-    <mask>checkout_cart_inde*.xml</mask>
+    <option name="FILE_MASK" value="*price*.xml" />
     <mask>!*.js</mask>
     <mask>*system.xml</mask>
     <mask>web*.xml</mask>
@@ -38,5 +37,6 @@
     <mask>*.phtml</mask>
     <mask>view.xml</mask>
     <mask>*.xml</mask>
+    <mask>*price*.xml</mask>
   </component>
 </application>
