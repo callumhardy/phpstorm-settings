@@ -33,7 +33,7 @@
     <mask>*.phtml</mask>
     <mask>view.xml</mask>
     <mask>*price*.xml</mask>
-    <mask>*.xml</mask>
     <mask>theme.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
