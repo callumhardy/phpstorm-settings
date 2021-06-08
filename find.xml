@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*system.xml</mask>
     <mask>web*.xml</mask>
     <mask>indexer.xml</mask>
@@ -19,7 +20,6 @@
     <mask>*types.xml</mask>
     <mask>*tes.xml</mask>
     <mask>*index.xml</mask>
-    <mask>*.php</mask>
     <mask>composer.json</mask>
     <mask>routes.xml</mask>
     <mask>product_types.xml</mask>
@@ -37,5 +37,6 @@
     <mask>theme.xml</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
