@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test*" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*system.xml</mask>
     <mask>web*.xml</mask>
     <mask>indexer.xml</mask>
@@ -33,8 +33,8 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
-    <mask>*.xml</mask>
     <mask>*.less</mask>
     <mask>!*Test*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
