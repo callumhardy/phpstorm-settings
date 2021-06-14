@@ -7,7 +7,6 @@
     <mask>web*.xml</mask>
     <mask>indexer.xml</mask>
     <mask>module</mask>
-    <mask>module.xml</mask>
     <mask>*.ph*</mask>
     <mask>*php,!*Test*</mask>
     <mask>edit.php</mask>
@@ -33,5 +32,6 @@
     <mask>*.xml</mask>
     <mask>view.xml</mask>
     <mask>*.php</mask>
+    <mask>module.xml</mask>
   </component>
 </application>
