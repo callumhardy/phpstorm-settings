@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*system.xml</mask>
     <mask>web*.xml</mask>
     <mask>indexer.xml</mask>
@@ -28,10 +31,10 @@
     <mask>*.phtml</mask>
     <mask>*.less</mask>
     <mask>!*Test*</mask>
-    <mask>*.xml</mask>
     <mask>view.xml</mask>
     <mask>*.php</mask>
     <mask>module.xml</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
