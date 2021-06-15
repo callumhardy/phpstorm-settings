@@ -22,7 +22,6 @@
     <mask>.git*</mask>
     <mask>*.scss</mask>
     <mask>*.csv</mask>
-    <mask>*.html</mask>
     <mask>*price*.xml</mask>
     <mask>theme.xml</mask>
     <mask>*.js</mask>
@@ -33,5 +32,6 @@
     <mask>view.xml</mask>
     <mask>*.php</mask>
     <mask>module.xml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
