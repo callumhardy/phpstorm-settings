@@ -28,12 +28,12 @@
     <mask>theme.xml</mask>
     <mask>*.js</mask>
     <mask>*.phtml</mask>
-    <mask>*.less</mask>
     <mask>!*Test*</mask>
     <mask>view.xml</mask>
     <mask>*.php</mask>
     <mask>module.xml</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
