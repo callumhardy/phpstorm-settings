@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*system.xml</mask>
+    <option name="FILE_MASK" value="di.xml" />
     <mask>web*.xml</mask>
     <mask>indexer.xml</mask>
     <mask>module</mask>
@@ -33,5 +33,6 @@
     <mask>*.less</mask>
     <mask>*.phtml</mask>
     <mask>*.xml</mask>
+    <mask>di.xml</mask>
   </component>
 </application>
