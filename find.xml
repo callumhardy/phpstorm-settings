@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>web*.xml</mask>
     <mask>indexer.xml</mask>
     <mask>module</mask>
@@ -22,7 +22,6 @@
     <mask>crontab.xml</mask>
     <mask>events.xml</mask>
     <mask>.git*</mask>
-    <mask>*.scss</mask>
     <mask>*.csv</mask>
     <mask>*price*.xml</mask>
     <mask>theme.xml</mask>
@@ -36,5 +35,6 @@
     <mask>di.xml</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
