@@ -21,7 +21,6 @@
     <mask>crontab.xml</mask>
     <mask>events.xml</mask>
     <mask>.git*</mask>
-    <mask>*.csv</mask>
     <mask>*price*.xml</mask>
     <mask>theme.xml</mask>
     <mask>*.js</mask>
@@ -35,5 +34,6 @@
     <mask>*.less</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
