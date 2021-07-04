@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>web*.xml</mask>
+    <mask>indexer.xml</mask>
+    <mask>module</mask>
+    <mask>*.ph*</mask>
+    <mask>*php,!*Test*</mask>
+    <mask>edit.php</mask>
+    <mask>*php</mask>
+    <mask>*types.xml</mask>
+    <mask>*tes.xml</mask>
+    <mask>*index.xml</mask>
+    <mask>composer.json</mask>
+    <mask>routes.xml</mask>
+    <mask>product_types.xml</mask>
+    <mask>crontab.xml</mask>
+    <mask>events.xml</mask>
+    <mask>.git*</mask>
+    <mask>*price*.xml</mask>
+    <mask>theme.xml</mask>
+    <mask>*.js</mask>
+    <mask>!*Test*</mask>
+    <mask>view.xml</mask>
+    <mask>module.xml</mask>
+    <mask>*.html</mask>
+    <mask>*.phtml</mask>
+    <mask>di.xml</mask>
+    <mask>*.scss</mask>
+    <mask>*.less</mask>
+    <mask>*.php</mask>
+    <mask>*.xml</mask>
+    <mask>*.csv</mask>
+  </component>
+</application>

@@ -1,0 +1,166 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="Bash.AddReplAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+  </action>
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Cvs.Add">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
+  <action id="Cvs.CreateBranch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
+  <action id="Debug" />
+  <action id="Diff.AppendLeftSide">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="Diff.AppendRightSide">
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="Diff.ApplyLeftSide">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
+  <action id="Diff.ApplyRightSide">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="alt clear" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="shift alt f7" />
+    <keyboard-shortcut first-keystroke="shift alt end" />
+  </action>
+  <action id="ForceStepOver">
+    <keyboard-shortcut first-keystroke="shift alt f8" />
+    <keyboard-shortcut first-keystroke="shift alt page_down" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="shift ctrl alt f" />
+  </action>
+  <action id="Git.Merge">
+    <keyboard-shortcut first-keystroke="shift ctrl alt m" />
+  </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
+  <action id="Git.Tag">
+    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
+  </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift ctrl alt r" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="Magicento2Action">
+    <keyboard-shortcut first-keystroke="ctrl meta m" />
+  </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="RecentProjectListGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="ReplaceInPath" />
+  <action id="Rerun" />
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="alt f9" />
+    <mouse-shortcut keystroke="Force touch" />
+    <keyboard-shortcut first-keystroke="alt page_up" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt end" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="alt end" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="ctrl home" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="alt page_down" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+  <action id="hg4idea.QPushAction" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
