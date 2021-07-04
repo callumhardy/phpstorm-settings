@@ -1,25 +1,5 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
-  <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
-  </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="0862ea2b-d3e7-4425-bd3d-c4cd773b9bd2" name="PHP-7.0 AMPPS" home="/Applications/AMPPS/php-7.0/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="f745262c-d031-4a32-b705-90b22ab17a84" name="PHP-7.1.8 AMPPS" home="/Applications/AMPPS/php-7.1/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="8ac036fb-c767-4c74-a18d-d3451c2abb1d" name="PHP-5.6 AMPPS" home="/Applications/AMPPS/php-5.6/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="4b60bd40-781f-4311-8bb6-9db7ad08a3c0" name="PHP-5.3 AMPPS" home="/Applications/AMPPS/php-5.3/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="6db41c97-7bbf-447f-9a57-d4f93ac453ec" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.33/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="966c889e-43dc-483b-87b9-791d1dee07d0" name="PHP 7" home="/usr/local/Cellar/php@7.0/7.0.33/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="9ec77476-5f1d-4c27-ab51-437f5e9c2cf3" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.31_1/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="029519b5-0cea-4869-ac5c-cfeae5110350" name="PHP 7.3" home="/usr/local/Cellar/php@7.3/7.3.19/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="ceaf075f-395c-4ac1-9b48-bbc638d10fbf" name="PHP 5.6" home="/usr/local/Cellar/php@5.6/5.6.40/bin/php" debugger_id="php.debugger.XDebug" />
-      <interpreter id="3615d2da-ee35-4ecc-bf22-d3a62f98be1c" name="PHP 7.4" home="/usr/local/Cellar/php/7.4.7/bin/php" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.3">
