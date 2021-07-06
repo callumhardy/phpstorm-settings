@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="weavers.sawblade.org.uk" id="5dc12a24-b3d8-489f-a3c7-7077b4a28168" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Weavers Dev" nameFormat="CUSTOM">
+        <option name="customName" value="Weavers Dev" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
