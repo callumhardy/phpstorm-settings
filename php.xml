@@ -24,7 +24,7 @@
             <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.3/7.3.29/share/php@7.3/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.0.4">
+            <debugger_info debugger="xdebug" debugger_version="2.9.8">
               <debug_extensions />
             </debugger_info>
           </debuggers>
