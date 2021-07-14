@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>web*.xml</mask>
     <mask>indexer.xml</mask>
     <mask>module</mask>
@@ -31,9 +32,9 @@
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>*.csv</mask>
-    <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>di.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
