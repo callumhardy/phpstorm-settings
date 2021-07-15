@@ -28,12 +28,12 @@
     <mask>module.xml</mask>
     <mask>*.html</mask>
     <mask>*.phtml</mask>
-    <mask>*.php</mask>
     <mask>*.csv</mask>
     <mask>*.js</mask>
     <mask>di.xml</mask>
     <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.less</mask>
+    <mask>*.php</mask>
   </component>
 </application>
