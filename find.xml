@@ -30,10 +30,10 @@
     <mask>*.csv</mask>
     <mask>*.js</mask>
     <mask>di.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.php</mask>
     <mask>cron_group*</mask>
     <mask>*.less</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
