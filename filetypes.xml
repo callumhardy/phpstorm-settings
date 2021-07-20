@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".bash_alias" type="Shell Script" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitignore" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
