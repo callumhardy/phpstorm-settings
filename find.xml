@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>indexer.xml</mask>
     <mask>module</mask>
     <mask>*.ph*</mask>
     <mask>*php,!*Test*</mask>
@@ -35,5 +32,6 @@
     <mask>cron_group*</mask>
     <mask>*.less</mask>
     <mask>*.xml</mask>
+    <mask>catalog_category_view.xml</mask>
   </component>
 </application>
