@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>module</mask>
+    <option name="FILE_MASK" value="product_listing.xml" />
     <mask>*.ph*</mask>
     <mask>*php,!*Test*</mask>
     <mask>edit.php</mask>
@@ -37,5 +37,6 @@
     <mask>*.php</mask>
     <mask>*.less</mask>
     <mask>*.xml</mask>
+    <mask>product_listing.xml</mask>
   </component>
 </application>
