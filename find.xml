@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.ph*</mask>
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*php,!*Test*</mask>
     <mask>edit.php</mask>
     <mask>*php</mask>
@@ -34,6 +34,7 @@
     <mask>*.less</mask>
     <mask>product_listing.xml</mask>
     <mask>*.php</mask>
+    <mask>*create_index.xml</mask>
     <mask>*.xml</mask>
   </component>
 </application>
