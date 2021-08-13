@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="olEqGpqHdoVWrxspACmimROShw7FWVSe55kWVeXfFLw" type="AUTO_DETECTED" />
       <mapping pattern="uFjccd6EkrO7N565Mon4ppom49_Vi8qlHnYvx3K3Ul4" type="AUTO_DETECTED" />
       <mapping pattern=".well-known/acme-challenge/uFjccd6EkrO7N565Mon4ppom49_Vi8qlHnYvx3K3Ul4" type="PLAIN_TEXT" />
       <mapping ext="history" type="PLAIN_TEXT" />
