@@ -6,6 +6,7 @@
       <mapping pattern=".well-known/acme-challenge/uFjccd6EkrO7N565Mon4ppom49_Vi8qlHnYvx3K3Ul4" type="PLAIN_TEXT" />
       <mapping ext="history" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="redirects" type="PLAIN_TEXT" />
       <mapping pattern=".bash_alias" type="Shell Script" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
