@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>edit.php</mask>
     <mask>*php</mask>
     <mask>*types.xml</mask>
@@ -27,7 +30,6 @@
     <mask>*.scss</mask>
     <mask>cron_group*</mask>
     <mask>catalog_category_view.xml</mask>
-    <mask>*.js</mask>
     <mask>product_listing.xml</mask>
     <mask>*.php</mask>
     <mask>*create_index.xml</mask>
@@ -35,5 +37,6 @@
     <mask>!*.xml</mask>
     <mask>*.less</mask>
     <mask>*.phtml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
