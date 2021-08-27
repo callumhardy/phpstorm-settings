@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!_archive*" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*types.xml</mask>
     <mask>*tes.xml</mask>
     <mask>*index.xml</mask>
@@ -32,11 +32,11 @@
     <mask>*create_index.xml</mask>
     <mask>!*.xml</mask>
     <mask>*.less</mask>
-    <mask>*.js</mask>
     <mask>*.phtml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>prod*grid*xml</mask>
     <mask>!_archive*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
