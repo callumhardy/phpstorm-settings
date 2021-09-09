@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*types.xml</mask>
     <mask>*tes.xml</mask>
     <mask>*index.xml</mask>
     <mask>composer.json</mask>
@@ -36,6 +35,7 @@
     <mask>prod*grid*xml</mask>
     <mask>!_archive*</mask>
     <mask>*.js</mask>
+    <mask>config.xml</mask>
     <mask>*.php</mask>
   </component>
 </application>
