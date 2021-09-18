@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*tes.xml</mask>
+    <option name="FILE_MASK" value="system.xml" />
     <mask>*index.xml</mask>
     <mask>composer.json</mask>
     <mask>routes.xml</mask>
@@ -35,5 +35,6 @@
     <mask>*.js</mask>
     <mask>config.xml</mask>
     <mask>*.php</mask>
+    <mask>system.xml</mask>
   </component>
 </application>
