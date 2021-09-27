@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="composer.json" />
     <mask>*index.xml</mask>
-    <mask>composer.json</mask>
     <mask>routes.xml</mask>
     <mask>product_types.xml</mask>
     <mask>crontab.xml</mask>
@@ -35,5 +35,6 @@
     <mask>system.xml</mask>
     <mask>!*Test*</mask>
     <mask>*.xml</mask>
+    <mask>composer.json</mask>
   </component>
 </application>
