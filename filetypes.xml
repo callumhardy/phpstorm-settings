@@ -5,6 +5,7 @@
       <mapping pattern="uFjccd6EkrO7N565Mon4ppom49_Vi8qlHnYvx3K3Ul4" type="AUTO_DETECTED" />
       <mapping pattern=".well-known/acme-challenge/uFjccd6EkrO7N565Mon4ppom49_Vi8qlHnYvx3K3Ul4" type="PLAIN_TEXT" />
       <mapping pattern=".2021-08-27" type="PLAIN_TEXT" />
+      <mapping ext="updated-dev" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="history" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
