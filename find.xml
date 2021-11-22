@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*index.xml</mask>
     <mask>routes.xml</mask>
     <mask>product_types.xml</mask>
@@ -24,7 +25,6 @@
     <mask>*.phtml</mask>
     <mask>prod*grid*xml</mask>
     <mask>!_archive*</mask>
-    <mask>*.js</mask>
     <mask>config.xml</mask>
     <mask>*.php</mask>
     <mask>system.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*.less</mask>
     <mask>view.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
