@@ -8,6 +8,7 @@
       <mapping ext="updated-dev" type="PLAIN_TEXT" />
       <mapping ext="conflict" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="history" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
