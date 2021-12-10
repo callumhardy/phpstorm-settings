@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*index.xml</mask>
     <mask>routes.xml</mask>
     <mask>product_types.xml</mask>
@@ -15,7 +16,6 @@
     <mask>*.html</mask>
     <mask>*.csv</mask>
     <mask>di.xml</mask>
-    <mask>*.scss</mask>
     <mask>cron_group*</mask>
     <mask>catalog_category_view.xml</mask>
     <mask>product_listing.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
