@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*index.xml</mask>
     <mask>routes.xml</mask>
     <mask>product_types.xml</mask>
     <mask>crontab.xml</mask>
@@ -33,5 +32,6 @@
     <mask>*.less</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>items.phtml</mask>
   </component>
 </application>
