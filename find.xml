@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*Test*" />
     <mask>routes.xml</mask>
     <mask>product_types.xml</mask>
     <mask>crontab.xml</mask>
@@ -25,7 +26,6 @@
     <mask>!_archive*</mask>
     <mask>config.xml</mask>
     <mask>system.xml</mask>
-    <mask>!*Test*</mask>
     <mask>composer.json</mask>
     <mask>view.xml</mask>
     <mask>*.scss</mask>
@@ -35,5 +35,6 @@
     <mask>items.phtml</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>!*Test*</mask>
   </component>
 </application>
