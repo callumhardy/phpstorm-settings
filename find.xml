@@ -12,7 +12,6 @@
     <mask>.git*</mask>
     <mask>*price*.xml</mask>
     <mask>theme.xml</mask>
-    <mask>module.xml</mask>
     <mask>*.html</mask>
     <mask>*.csv</mask>
     <mask>di.xml</mask>
@@ -35,5 +34,6 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>!*Test*</mask>
+    <mask>module.xml</mask>
   </component>
 </application>
