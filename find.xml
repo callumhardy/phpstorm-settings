@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>product_types.xml</mask>
+    <option name="FILE_MASK" value="checkout_onepage_success.xml" />
     <mask>crontab.xml</mask>
     <mask>events.xml</mask>
     <mask>.git*</mask>
@@ -35,5 +35,6 @@
     <mask>*.js</mask>
     <mask>theme.xml</mask>
     <mask>*.xml</mask>
+    <mask>checkout_onepage_success.xml</mask>
   </component>
 </application>
