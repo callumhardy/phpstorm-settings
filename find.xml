@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>crontab.xml</mask>
     <mask>events.xml</mask>
     <mask>.git*</mask>
@@ -27,7 +28,6 @@
     <mask>*.php</mask>
     <mask>!*Test*</mask>
     <mask>module.xml</mask>
-    <mask>*.less</mask>
     <mask>!classie*</mask>
     <mask>*.js</mask>
     <mask>theme.xml</mask>
@@ -35,5 +35,6 @@
     <mask>view.xml</mask>
     <mask>*.xml</mask>
     <mask>*.phtml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
