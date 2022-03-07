@@ -18,6 +18,7 @@
       <mapping ext="21809" type="PLAIN_TEXT" />
       <mapping ext="7-p1" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="2022-03-07" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern=".bash_alias" type="Shell Script" />
