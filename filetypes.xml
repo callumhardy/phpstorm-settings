@@ -20,6 +20,7 @@
       <mapping ext="redirects" type="PLAIN_TEXT" />
       <mapping ext="21809" type="PLAIN_TEXT" />
       <mapping ext="7-p1" type="PLAIN_TEXT" />
+      <mapping ext="works" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="2022-03-07" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
