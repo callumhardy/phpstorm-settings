@@ -5,7 +5,6 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.php" />
     <mask>.git*</mask>
     <mask>*price*.xml</mask>
     <mask>*.html</mask>
@@ -30,11 +29,11 @@
     <mask>*.js</mask>
     <mask>checkout_onepage_success.xml</mask>
     <mask>view.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.phtml</mask>
     <mask>*.less</mask>
     <mask>theme.xml</mask>
     <mask>!*.css,!*.less</mask>
     <mask>!*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
