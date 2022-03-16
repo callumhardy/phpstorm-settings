@@ -32,8 +32,8 @@
     <mask>theme.xml</mask>
     <mask>!*.css,!*.less</mask>
     <mask>!*.php</mask>
-    <mask>*.xml</mask>
     <mask>acl.xml</mask>
     <mask>db_schema.xml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
