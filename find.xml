@@ -27,7 +27,6 @@
     <mask>*.js</mask>
     <mask>checkout_onepage_success.xml</mask>
     <mask>view.xml</mask>
-    <mask>*.phtml</mask>
     <mask>*.less</mask>
     <mask>theme.xml</mask>
     <mask>!*.css,!*.less</mask>
@@ -35,5 +34,6 @@
     <mask>acl.xml</mask>
     <mask>db_schema.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
