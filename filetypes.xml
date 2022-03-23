@@ -17,6 +17,7 @@
       <mapping ext="history" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="aheadworks" type="PLAIN_TEXT" />
       <mapping ext="redirects" type="PLAIN_TEXT" />
       <mapping ext="21809" type="PLAIN_TEXT" />
       <mapping ext="7-p1" type="PLAIN_TEXT" />
