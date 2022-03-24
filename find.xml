@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.csv</mask>
     <mask>di.xml</mask>
     <mask>cron_group*</mask>
@@ -30,8 +31,8 @@
     <mask>db_schema.xml</mask>
     <mask>*.phtml</mask>
     <mask>!*Test*</mask>
-    <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.yaml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
