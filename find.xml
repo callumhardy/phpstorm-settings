@@ -3,8 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.csv</mask>
-    <mask>di.xml</mask>
     <mask>cron_group*</mask>
     <mask>catalog_category_view.xml</mask>
     <mask>product_listing.xml</mask>
@@ -33,5 +31,7 @@
     <mask>*.yaml</mask>
     <mask>!*Test*</mask>
     <mask>*.xml</mask>
+    <mask>db_schema*</mask>
+    <mask>db_schema.*</mask>
   </component>
 </application>
