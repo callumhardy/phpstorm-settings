@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>catalog_category_view.xml</mask>
+    <option name="FILE_MASK" value="ImportProductsCommand.php" />
     <mask>product_listing.xml</mask>
     <mask>*create_index.xml</mask>
     <mask>prod*grid*xml</mask>
@@ -35,5 +35,6 @@
     <mask>*.md</mask>
     <mask>!*.xml</mask>
     <mask>*.xml</mask>
+    <mask>ImportProductsCommand.php</mask>
   </component>
 </application>
