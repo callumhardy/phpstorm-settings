@@ -7,11 +7,11 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="config.xml" />
     <mask>product_listing.xml</mask>
     <mask>*create_index.xml</mask>
     <mask>prod*grid*xml</mask>
     <mask>!_archive*</mask>
-    <mask>config.xml</mask>
     <mask>system.xml</mask>
     <mask>composer.json</mask>
     <mask>*.scss</mask>
@@ -37,5 +37,6 @@
     <mask>*.php</mask>
     <mask>!*Test*</mask>
     <mask>*.xml</mask>
+    <mask>config.xml</mask>
   </component>
 </application>
