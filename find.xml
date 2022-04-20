@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Wordpress" />
-    <option name="defaultScopeName" value="Wordpress" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Wordpress" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*create_index.xml</mask>
     <mask>prod*grid*xml</mask>
     <mask>!_archive*</mask>
