@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>system.xml</mask>
     <mask>composer.json</mask>
     <mask>*.scss</mask>
@@ -32,8 +33,8 @@
     <mask>*_order_view.xml</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>*index..xml</mask>
     <mask>*index.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
