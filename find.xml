@@ -5,8 +5,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>prod*grid*xml</mask>
-    <mask>!_archive*</mask>
     <mask>system.xml</mask>
     <mask>composer.json</mask>
     <mask>*.scss</mask>
@@ -35,5 +33,7 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*index..xml</mask>
+    <mask>*index.xml</mask>
   </component>
 </application>
