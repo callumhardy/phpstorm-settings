@@ -16,7 +16,6 @@
     <mask>theme.xml</mask>
     <mask>!*.css,!*.less</mask>
     <mask>!*.php</mask>
-    <mask>acl.xml</mask>
     <mask>db_schema.xml</mask>
     <mask>*.phtml</mask>
     <mask>*.yaml</mask>
@@ -35,5 +34,6 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>composer.l*</mask>
+    <mask>acl.xml</mask>
   </component>
 </application>
