@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>composer.json</mask>
+    <option name="FILE_MASK" value="*listing*" />
     <mask>*.scss</mask>
     <mask>items.phtml</mask>
     <mask>module.xml</mask>
@@ -37,5 +37,6 @@
     <mask>!*Test*</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*listing*</mask>
   </component>
 </application>
