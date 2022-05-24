@@ -35,7 +35,7 @@
     <mask>acl.xml</mask>
     <mask>!*Test*</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*listing*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
