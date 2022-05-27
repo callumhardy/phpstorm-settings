@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="config.xml" />
     <mask>*.scss</mask>
     <mask>items.phtml</mask>
     <mask>module.xml</mask>
@@ -25,7 +26,6 @@
     <mask>*.md</mask>
     <mask>!*.xml</mask>
     <mask>ImportProductsCommand.php</mask>
-    <mask>config.xml</mask>
     <mask>*_order_view.xml</mask>
     <mask>*.html</mask>
     <mask>*index..xml</mask>
@@ -37,5 +37,6 @@
     <mask>*listing*</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>config.xml</mask>
   </component>
 </application>
