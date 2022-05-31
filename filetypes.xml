@@ -13,6 +13,7 @@
       <mapping ext="updated" type="PLAIN_TEXT" />
       <mapping ext="conflict" type="PLAIN_TEXT" />
       <mapping ext="current" type="PLAIN_TEXT" />
+      <mapping ext="versions" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="history" type="PLAIN_TEXT" />
