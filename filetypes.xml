@@ -11,6 +11,7 @@
       <mapping ext="conflicts" type="PLAIN_TEXT" />
       <mapping ext="back-2022-02-15" type="PLAIN_TEXT" />
       <mapping ext="updated" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="conflict" type="PLAIN_TEXT" />
       <mapping ext="current" type="PLAIN_TEXT" />
       <mapping ext="versions" type="PLAIN_TEXT" />
